@@ -5,7 +5,7 @@ repo_name: "3D-arXiv-daily"
 show_authors: True
 show_links: True
 show_badge: False
-max_results: 250
+max_results: 100
 
 publish_readme: True
 publish_gitpage: True
