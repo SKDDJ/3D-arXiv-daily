@@ -1,11 +1,11 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
 user_name: "SKDDJ"
-repo_name: "cv-arxiv-daily"
+repo_name: "3D-arXiv-daily"
 show_authors: True
 show_links: True
 show_badge: False
-max_results: 15
+max_results: 250
 
 publish_readme: True
 publish_gitpage: True
@@ -22,18 +22,24 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "PEFT":
-        filters: ["Parameter-Efficient Fine-Tuning", "PEFT", "Low-Rank Adaptation", "Efficient Fine-Tuning"]
-    "Dataset Distillation":
-        filters: ["Dataset Distillation", "Knowledge Distillation", "Dataset Distillation", "Data-Efficient Learning", "Data-Efficient Training", "Dataset Condensation", "Core-set Selection", "Dataset Pruning", "Data-centric AI"]
-    "Schrodinger Bridge":
-        filters: ["Schrodinger Bridge", "Schrödinger Bridge", "Stochastic Control", "Optimal Transport", "Diffusion Models", "Stochastic Differential Equations", "Forward-Backward SDEs", "Reversible Diffusion Processes"]
-    "Text-to-Image Generation":
-        filters: ["Text-to-Image Generation", "Diffusion Models", "Customization", "Zero-Shot Learning", "Generative Models"]
-    "Generative Weight Space Modeling":
-        filters: ["Parameter Generation",  "Model Weights Synthesis", "Weights2Weights", "Weight Space", "Semantic Weight Edits",  "Model Parameter Synthesis", "Weight Space Modeling", "Generative Weight Space"]
-    "Vision-Language Models":
-        filters: ["Vision-Language Models", "Multimodal Models", "Vision-and-Language", "Multimodal Learning"]
-    "Synthetic Data Generation":
-        filters: ["Synthetic Data", "Data Generation", "Data Synthesis"]
+    "Single View Reconstruction":
+        filters: ["Single View Reconstruction", "Monocular 3D Reconstruction", "Single Image 3D", "Monocular Depth Estimation", "Single View 3D Generation"]
+    "3D Generation":
+        filters: ["3D Generation", "3D Reconstruction", "3D Shape Generation", "3D Content Creation", "3D Scene Generation"]
+    "NeRF":
+        filters: ["Neural Radiance Fields", "NeRF", "Novel View Synthesis", "Volume Rendering", "Implicit Neural Representations"]
+    "3D Point Cloud":
+        filters: ["Point Cloud", "Point Cloud Processing", "Point Cloud Generation", "Point Cloud Reconstruction", "3D Point Cloud"]
+    "3D Mesh":
+        filters: ["3D Mesh", "Mesh Generation", "Mesh Reconstruction", "Surface Reconstruction", "Polygon Mesh", "Triangle Mesh"]
+    "Gaussian Splatting":
+        filters: ["Gaussian Splatting", "3D Gaussian Splatting", "Neural Gaussian Splatting", "Point-Based Rendering"]
+    "3D Scene Understanding":
+        filters: ["3D Scene Understanding", "Scene Layout Estimation", "3D Scene Analysis", "Scene Geometry", "3D Scene Representation"]
+    "Neural Rendering":
+        filters: ["Neural Rendering", "Differentiable Rendering", "Neural Scene Representation", "View Synthesis", "Neural Graphics"]
+    "Voxel":
+        filters: ["Voxel", "Voxel Grid", "Volumetric Representation", "3D Voxel", "Voxel-based Methods"]
+    "3D Vision-Language":
+        filters: ["3D Vision Language", "3D-Aware Generation", "Text-to-3D", "3D Scene Generation from Text", "Multimodal 3D"]
 
