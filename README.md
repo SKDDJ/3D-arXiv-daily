@@ -276,6 +276,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**SAMPart3D: Segment Any Part in 3D Objects**|Yunhan Yang et.al.|[2411.07184](http://arxiv.org/abs/2411.07184)|**[link](https://github.com/yhyang-myron/sampart3d-website)**|
+|**2024-11-11**|**Extreme Rotation Estimation in the Wild**|Hana Bezalel et.al.|[2411.07096](http://arxiv.org/abs/2411.07096)|null|
+|**2024-11-10**|**Real-time Deformation-aware Control for Autonomous Robotic Subretinal Injection under iOCT Guidance**|Demir Arikan et.al.|[2411.06557](http://arxiv.org/abs/2411.06557)|null|
+|**2024-11-10**|**A novel algorithm for optimizing bundle adjustment in image sequence alignment**|Hailin Xu et.al.|[2411.06343](http://arxiv.org/abs/2411.06343)|null|
+|**2024-11-09**|**AI-Driven Stylization of 3D Environments**|Yuanbo Chen et.al.|[2411.06067](http://arxiv.org/abs/2411.06067)|null|
+|**2024-11-08**|**Autoregressive Models in Vision: A Survey**|Jing Xiong et.al.|[2411.05902](http://arxiv.org/abs/2411.05902)|**[link](https://github.com/chaofantao/autoregressive-models-in-vision-survey)**|
+|**2024-11-08**|**Benchmarking 3D multi-coil NC-PDNet MRI reconstruction**|Asma Tanabene et.al.|[2411.05883](http://arxiv.org/abs/2411.05883)|null|
 |**2024-11-07**|**DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion**|Wenqiang Sun et.al.|[2411.04928](http://arxiv.org/abs/2411.04928)|null|
 |**2024-11-07**|**MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views**|Yuedong Chen et.al.|[2411.04924](http://arxiv.org/abs/2411.04924)|**[link](https://github.com/donydchen/mvsplat360)**|
 |**2024-11-07**|**GANESH: Generalizable NeRF for Lensless Imaging**|Rakesh Raj Madavan et.al.|[2411.04810](http://arxiv.org/abs/2411.04810)|null|
@@ -533,6 +540,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**A Hierarchical Compression Technique for 3D Gaussian Splatting Compression**|He Huang et.al.|[2411.06976](http://arxiv.org/abs/2411.06976)|null|
+|**2024-11-11**|**LuSh-NeRF: Lighting up and Sharpening NeRFs for Low-light Scenes**|Zefan Qu et.al.|[2411.06757](http://arxiv.org/abs/2411.06757)|null|
+|**2024-11-10**|**Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction**|Decai Chen et.al.|[2411.06602](http://arxiv.org/abs/2411.06602)|null|
+|**2024-11-10**|**Local Implicit Wavelet Transformer for Arbitrary-Scale Super-Resolution**|Minghong Duan et.al.|[2411.06442](http://arxiv.org/abs/2411.06442)|**[link](https://github.com/dmhdmhdmh/liwt)**|
+|**2024-11-10**|**SplatFormer: Point Transformer for Robust 3D Gaussian Splatting**|Yutong Chen et.al.|[2411.06390](http://arxiv.org/abs/2411.06390)|**[link](https://github.com/ChenYutongTHU/SplatFormer)**|
+|**2024-11-10**|**Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field**|Liuyue Xie et.al.|[2411.06365](http://arxiv.org/abs/2411.06365)|null|
+|**2024-11-09**|**Acoustic Volume Rendering for Neural Impulse Response Fields**|Zitong Lan et.al.|[2411.06307](http://arxiv.org/abs/2411.06307)|null|
+|**2024-11-09**|**HiHa: Introducing Hierarchical Harmonic Decomposition to Implicit Neural Compression for Atmospheric Data**|Zhewen Xu et.al.|[2411.06155](http://arxiv.org/abs/2411.06155)|null|
+|**2024-11-09**|**AI-Driven Stylization of 3D Environments**|Yuanbo Chen et.al.|[2411.06067](http://arxiv.org/abs/2411.06067)|null|
+|**2024-11-09**|**GaussianSpa: An "Optimizing-Sparsifying" Simplification Framework for Compact and High-Quality 3D Gaussian Splatting**|Yangming Zhang et.al.|[2411.06019](http://arxiv.org/abs/2411.06019)|null|
 |**2024-11-08**|**A Nerf-Based Color Consistency Method for Remote Sensing Images**|Zongcheng Zuo et.al.|[2411.05557](http://arxiv.org/abs/2411.05557)|null|
 |**2024-11-08**|**From Transparent to Opaque: Rethinking Neural Implicit Surfaces with $α$ -NeuS**|Haoran Zhang et.al.|[2411.05362](http://arxiv.org/abs/2411.05362)|null|
 |**2024-11-08**|**Rate-aware Compression for NeRF-based Volumetric Video**|Zhiyu Zhang et.al.|[2411.05322](http://arxiv.org/abs/2411.05322)|null|
@@ -541,7 +558,7 @@
 |**2024-11-07**|**VAIR: Visuo-Acoustic Implicit Representations for Low-Cost, Multi-Modal Transparent Surface Reconstruction in Indoor Scenes**|Advaith V. Sethuraman et.al.|[2411.04963](http://arxiv.org/abs/2411.04963)|null|
 |**2024-11-07**|**MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views**|Yuedong Chen et.al.|[2411.04924](http://arxiv.org/abs/2411.04924)|**[link](https://github.com/donydchen/mvsplat360)**|
 |**2024-11-07**|**GANESH: Generalizable NeRF for Lensless Imaging**|Rakesh Raj Madavan et.al.|[2411.04810](http://arxiv.org/abs/2411.04810)|null|
-|**2024-11-07**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386](http://arxiv.org/abs/2411.04386)|null|
+|**2024-11-08**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386](http://arxiv.org/abs/2411.04386)|null|
 |**2024-11-06**|**Where Do We Stand with Implicit Neural Representations? A Technical and Performance Survey**|Amer Essakine et.al.|[2411.03688](http://arxiv.org/abs/2411.03688)|null|
 |**2024-11-06**|**Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**|Rui Peng et.al.|[2411.03637](http://arxiv.org/abs/2411.03637)|**[link](https://github.com/prstrive/scgaussian)**|
 |**2024-11-05**|**Enhancing Exploratory Capability of Visual Navigation Using Uncertainty of Implicit Scene Representation**|Yichen Wang et.al.|[2411.03487](http://arxiv.org/abs/2411.03487)|**[link](https://github.com/IRMVLab/NUE-NeRF-nav)**|
@@ -790,16 +807,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Automatic Contact-Based 3D Scanning Using Articulated Robotic Arm**|Shadman Tajwar Shahid et.al.|[2411.07047](http://arxiv.org/abs/2411.07047)|null|
+|**2024-11-11**|**Scaling Mesh Generation via Compressive Tokenization**|Haohan Weng et.al.|[2411.07025](http://arxiv.org/abs/2411.07025)|**[link](https://github.com/whaohan/bpt)**|
+|**2024-11-11**|**SIESEF-FusionNet: Spatial Inter-correlation Enhancement and Spatially-Embedded Feature Fusion Network for LiDAR Point Cloud Semantic Segmentation**|Jiale Chen et.al.|[2411.06991](http://arxiv.org/abs/2411.06991)|null|
+|**2024-11-11**|**A Sparse Multicover Bifiltration of Linear Size**|Ángel Javier Alonso et.al.|[2411.06986](http://arxiv.org/abs/2411.06986)|null|
+|**2024-11-11**|**GSL-PCD: Improving Generalist-Specialist Learning with Point Cloud Feature-based Task Partitioning**|Xiu Yuan et.al.|[2411.06733](http://arxiv.org/abs/2411.06733)|null|
+|**2024-11-09**|**Linear Spherical Sliced Optimal Transport: A Fast Metric for Comparing Spherical Data**|Xinran Liu et.al.|[2411.06055](http://arxiv.org/abs/2411.06055)|null|
+|**2024-11-09**|**PointCG: Self-supervised Point Cloud Learning via Joint Completion and Generation**|Yun Liu et.al.|[2411.06041](http://arxiv.org/abs/2411.06041)|null|
+|**2024-11-05**|**A Theory of Stabilization by Skull Carving**|Mathieu Lamarre et.al.|[2411.05827](http://arxiv.org/abs/2411.05827)|null|
+|**2024-10-26**|**NeoPhysIx: An Ultra Fast 3D Physical Simulator as Development Tool for AI Algorithms**|Jörn Fischer et.al.|[2411.05799](http://arxiv.org/abs/2411.05799)|null|
 |**2024-11-08**|**Tightly-Coupled, Speed-aided Monocular Visual-Inertial Localization in Topological Map**|Chanuk Yang et.al.|[2411.05497](http://arxiv.org/abs/2411.05497)|null|
 |**2024-11-08**|**ZOPP: A Framework of Zero-shot Offboard Panoptic Perception for Autonomous Driving**|Tao Ma et.al.|[2411.05311](http://arxiv.org/abs/2411.05311)|null|
 |**2024-11-07**|**ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning**|David Junhao Zhang et.al.|[2411.05003](http://arxiv.org/abs/2411.05003)|null|
 |**2024-11-07**|**DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation**|Peiqi Liu et.al.|[2411.04999](http://arxiv.org/abs/2411.04999)|null|
 |**2024-11-07**|**VAIR: Visuo-Acoustic Implicit Representations for Low-Cost, Multi-Modal Transparent Surface Reconstruction in Indoor Scenes**|Advaith V. Sethuraman et.al.|[2411.04963](http://arxiv.org/abs/2411.04963)|null|
 |**2024-11-07**|**CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM**|Jingwei Xu et.al.|[2411.04954](http://arxiv.org/abs/2411.04954)|null|
-|**2024-11-08**|**ZAHA: Introducing the Level of Facade Generalization and the Large-Scale Point Cloud Facade Semantic Segmentation Benchmark Dataset**|Olaf Wysocki et.al.|[2411.04865](http://arxiv.org/abs/2411.04865)|**[link](https://github.com/oloocki/zaha)**|
+|**2024-11-11**|**ZAHA: Introducing the Level of Facade Generalization and the Large-Scale Point Cloud Facade Semantic Segmentation Benchmark Dataset**|Olaf Wysocki et.al.|[2411.04865](http://arxiv.org/abs/2411.04865)|**[link](https://github.com/oloocki/zaha)**|
 |**2024-11-07**|**Normalized Space Alignment: A Versatile Metric for Representation Analysis**|Danish Ebadulla et.al.|[2411.04512](http://arxiv.org/abs/2411.04512)|null|
 |**2024-11-07**|**LidaRefer: Outdoor 3D Visual Grounding for Autonomous Driving with Transformers**|Yeong-Seung Baek et.al.|[2411.04351](http://arxiv.org/abs/2411.04351)|null|
-|**2024-11-06**|**PocoLoco: A Point Cloud Diffusion Model of Human Shape in Loose Clothing**|Siddharth Seth et.al.|[2411.04249](http://arxiv.org/abs/2411.04249)|**[link](https://github.com/sidsunny/pocoloco)**|
+|**2024-11-08**|**PocoLoco: A Point Cloud Diffusion Model of Human Shape in Loose Clothing**|Siddharth Seth et.al.|[2411.04249](http://arxiv.org/abs/2411.04249)|**[link](https://github.com/sidsunny/pocoloco)**|
 |**2024-11-06**|**PX2Tooth: Reconstructing the 3D Point Cloud Teeth from a Single Panoramic X-ray**|Wen Ma et.al.|[2411.03725](http://arxiv.org/abs/2411.03725)|null|
 |**2024-11-05**|**VLA-3D: A Dataset for 3D Semantic Scene Understanding and Navigation**|Haochen Zhang et.al.|[2411.03540](http://arxiv.org/abs/2411.03540)|**[link](https://github.com/haochenz11/vla-3d)**|
 |**2024-11-05**|**A robust first order meshfree method for time-dependent nonlinear conservation laws**|Samuel Kwan et.al.|[2411.03411](http://arxiv.org/abs/2411.03411)|null|
@@ -1047,8 +1073,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Scaling Mesh Generation via Compressive Tokenization**|Haohan Weng et.al.|[2411.07025](http://arxiv.org/abs/2411.07025)|**[link](https://github.com/whaohan/bpt)**|
+|**2024-11-10**|**Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction**|Decai Chen et.al.|[2411.06602](http://arxiv.org/abs/2411.06602)|null|
+|**2024-11-05**|**A Theory of Stabilization by Skull Carving**|Mathieu Lamarre et.al.|[2411.05827](http://arxiv.org/abs/2411.05827)|null|
 |**2024-11-07**|**VAIR: Visuo-Acoustic Implicit Representations for Low-Cost, Multi-Modal Transparent Surface Reconstruction in Indoor Scenes**|Advaith V. Sethuraman et.al.|[2411.04963](http://arxiv.org/abs/2411.04963)|null|
-|**2024-11-07**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386](http://arxiv.org/abs/2411.04386)|null|
+|**2024-11-08**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386](http://arxiv.org/abs/2411.04386)|null|
 |**2024-11-06**|**Inter-Frame Coding for Dynamic Meshes via Coarse-to-Fine Anchor Mesh Generation**|He Huang et.al.|[2411.03921](http://arxiv.org/abs/2411.03921)|null|
 |**2024-11-04**|**MVPaint: Synchronized Multi-View Diffusion for Painting Anything 3D**|Wei Cheng et.al.|[2411.02336](http://arxiv.org/abs/2411.02336)|null|
 |**2024-11-06**|**GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes**|Gaochao Song et.al.|[2411.01853](http://arxiv.org/abs/2411.01853)|null|
@@ -1304,6 +1333,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**A Hierarchical Compression Technique for 3D Gaussian Splatting Compression**|He Huang et.al.|[2411.06976](http://arxiv.org/abs/2411.06976)|null|
+|**2024-11-10**|**Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction**|Decai Chen et.al.|[2411.06602](http://arxiv.org/abs/2411.06602)|null|
+|**2024-11-10**|**SplatFormer: Point Transformer for Robust 3D Gaussian Splatting**|Yutong Chen et.al.|[2411.06390](http://arxiv.org/abs/2411.06390)|**[link](https://github.com/ChenYutongTHU/SplatFormer)**|
+|**2024-11-10**|**Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field**|Liuyue Xie et.al.|[2411.06365](http://arxiv.org/abs/2411.06365)|null|
+|**2024-11-09**|**AI-Driven Stylization of 3D Environments**|Yuanbo Chen et.al.|[2411.06067](http://arxiv.org/abs/2411.06067)|null|
+|**2024-11-09**|**GaussianSpa: An "Optimizing-Sparsifying" Simplification Framework for Compact and High-Quality 3D Gaussian Splatting**|Yangming Zhang et.al.|[2411.06019](http://arxiv.org/abs/2411.06019)|null|
 |**2024-11-07**|**ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing**|Jun-Kun Chen et.al.|[2411.05006](http://arxiv.org/abs/2411.05006)|null|
 |**2024-11-07**|**MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views**|Yuedong Chen et.al.|[2411.04924](http://arxiv.org/abs/2411.04924)|**[link](https://github.com/donydchen/mvsplat360)**|
 |**2024-11-08**|**GS2Pose: Two-stage 6D Object Pose Estimation Guided by Gaussian Splatting**|Jilan Mei et.al.|[2411.03807](http://arxiv.org/abs/2411.03807)|null|
@@ -1386,7 +1421,7 @@
 |**2024-10-10**|**Neural Material Adaptor for Visual Grounding of Intrinsic Dynamics**|Junyi Cao et.al.|[2410.08257](http://arxiv.org/abs/2410.08257)|null|
 |**2024-10-10**|**Poison-splat: Computation Cost Attack on 3D Gaussian Splatting**|Jiahao Lu et.al.|[2410.08190](http://arxiv.org/abs/2410.08190)|**[link](https://github.com/jiahaolu97/poison-splat)**|
 |**2024-10-10**|**DifFRelight: Diffusion-Based Facial Performance Relighting**|Mingming He et.al.|[2410.08188](http://arxiv.org/abs/2410.08188)|null|
-|**2024-10-10**|**Efficient Perspective-Correct 3D Gaussian Splatting Using Hybrid Transparency**|Florian Hahlbohm et.al.|[2410.08129](http://arxiv.org/abs/2410.08129)|null|
+|**2024-11-11**|**Efficient Perspective-Correct 3D Gaussian Splatting Using Hybrid Transparency**|Florian Hahlbohm et.al.|[2410.08129](http://arxiv.org/abs/2410.08129)|null|
 |**2024-10-18**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
 |**2024-10-11**|**Fast Feedforward 3D Gaussian Splatting Compression**|Yihang Chen et.al.|[2410.08017](http://arxiv.org/abs/2410.08017)|**[link](https://github.com/yihangchen-ee/fcgs)**|
 |**2024-10-10**|**L-VITeX: Light-weight Visual Intuition for Terrain Exploration**|Antar Mazumder et.al.|[2410.07872](http://arxiv.org/abs/2410.07872)|null|
@@ -1561,6 +1596,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-09**|**GaussianSpa: An "Optimizing-Sparsifying" Simplification Framework for Compact and High-Quality 3D Gaussian Splatting**|Yangming Zhang et.al.|[2411.06019](http://arxiv.org/abs/2411.06019)|null|
 |**2024-11-07**|**Planar Reflection-Aware Neural Radiance Fields**|Chen Gao et.al.|[2411.04984](http://arxiv.org/abs/2411.04984)|null|
 |**2024-11-05**|**VLA-3D: A Dataset for 3D Semantic Scene Understanding and Navigation**|Haochen Zhang et.al.|[2411.03540](http://arxiv.org/abs/2411.03540)|**[link](https://github.com/haochenz11/vla-3d)**|
 |**2024-11-05**|**HFGaussian: Learning Generalizable Gaussian Human with Integrated Human Features**|Arnab Dey et.al.|[2411.03086](http://arxiv.org/abs/2411.03086)|null|
@@ -1605,7 +1641,7 @@
 |**2024-09-05**|**G-Style: Stylized Gaussian Splatting**|Áron Samuel Kovács et.al.|[2408.15695](http://arxiv.org/abs/2408.15695)|**[link](https://github.com/AronKovacs/g-style)**|
 |**2024-08-28**|**Ray-Distance Volume Rendering for Neural Scene Reconstruction**|Ruihong Yin et.al.|[2408.15524](http://arxiv.org/abs/2408.15524)|null|
 |**2024-09-28**|**GeoTransfer : Generalizable Few-Shot Multi-View Reconstruction via Transfer Learning**|Shubhendu Jena et.al.|[2408.14724](http://arxiv.org/abs/2408.14724)|null|
-|**2024-08-23**|**Transientangelo: Few-Viewpoint Surface Reconstruction Using Single-Photon Lidar**|Weihan Luo et.al.|[2408.12191](http://arxiv.org/abs/2408.12191)|null|
+|**2024-11-09**|**Transientangelo: Few-Viewpoint Surface Reconstruction Using Single-Photon Lidar**|Weihan Luo et.al.|[2408.12191](http://arxiv.org/abs/2408.12191)|null|
 |**2024-08-21**|**Exploring Scene Coherence for Semi-Supervised 3D Semantic Segmentation**|Chuandong Liu et.al.|[2408.11280](http://arxiv.org/abs/2408.11280)|null|
 |**2024-08-20**|**OpenScan: A Benchmark for Generalized Open-Vocabulary 3D Scene Understanding**|Youjun Zhao et.al.|[2408.11030](http://arxiv.org/abs/2408.11030)|**[link](https://github.com/youjunzhao/openscan)**|
 |**2024-08-19**|**3D-Aware Instance Segmentation and Tracking in Egocentric Videos**|Yash Bhalgat et.al.|[2408.09860](http://arxiv.org/abs/2408.09860)|null|
@@ -1818,6 +1854,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**A Hierarchical Compression Technique for 3D Gaussian Splatting Compression**|He Huang et.al.|[2411.06976](http://arxiv.org/abs/2411.06976)|null|
+|**2024-11-10**|**Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction**|Decai Chen et.al.|[2411.06602](http://arxiv.org/abs/2411.06602)|null|
+|**2024-11-10**|**SplatFormer: Point Transformer for Robust 3D Gaussian Splatting**|Yutong Chen et.al.|[2411.06390](http://arxiv.org/abs/2411.06390)|**[link](https://github.com/ChenYutongTHU/SplatFormer)**|
+|**2024-11-10**|**Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field**|Liuyue Xie et.al.|[2411.06365](http://arxiv.org/abs/2411.06365)|null|
+|**2024-11-09**|**Acoustic Volume Rendering for Neural Impulse Response Fields**|Zitong Lan et.al.|[2411.06307](http://arxiv.org/abs/2411.06307)|null|
+|**2024-11-09**|**GaussianSpa: An "Optimizing-Sparsifying" Simplification Framework for Compact and High-Quality 3D Gaussian Splatting**|Yangming Zhang et.al.|[2411.06019](http://arxiv.org/abs/2411.06019)|null|
 |**2024-11-08**|**PEP-GS: Perceptually-Enhanced Precise Structured 3D Gaussians for View-Adaptive Rendering**|Junxi Jin et.al.|[2411.05731](http://arxiv.org/abs/2411.05731)|null|
 |**2024-11-07**|**MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views**|Yuedong Chen et.al.|[2411.04924](http://arxiv.org/abs/2411.04924)|**[link](https://github.com/donydchen/mvsplat360)**|
 |**2024-11-07**|**GANESH: Generalizable NeRF for Lensless Imaging**|Rakesh Raj Madavan et.al.|[2411.04810](http://arxiv.org/abs/2411.04810)|null|
@@ -2075,6 +2117,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-10**|**Few-shot Semantic Learning for Robust Multi-Biome 3D Semantic Mapping in Off-Road Environments**|Deegan Atha et.al.|[2411.06632](http://arxiv.org/abs/2411.06632)|null|
+|**2024-11-08**|**Untrained Perceptual Loss for image denoising of line-like structures in MR images**|Elisabeth Pfaehler et.al.|[2411.05884](http://arxiv.org/abs/2411.05884)|null|
 |**2024-11-06**|**Towards 3D Semantic Scene Completion for Autonomous Driving: A Meta-Learning Framework Empowered by Deformable Large-Kernel Attention and Mamba Model**|Yansong Qu et.al.|[2411.03672](http://arxiv.org/abs/2411.03672)|null|
 |**2024-11-06**|**LCP-Fusion: A Neural Implicit SLAM with Enhanced Local Constraints and Computable Prior**|Jiahui Wang et.al.|[2411.03610](http://arxiv.org/abs/2411.03610)|**[link](https://github.com/laliwang/lcp-fusion)**|
 |**2024-11-05**|**Relaxometry and contrast-free cerebral microvascular quantification using balanced Steady-State Free Precession MR Fingerprinting**|Thomas Coudert et.al.|[2411.03414](http://arxiv.org/abs/2411.03414)|null|
@@ -2097,7 +2141,7 @@
 |**2024-10-25**|**IPPON: Common Sense Guided Informative Path Planning for Object Goal Navigation**|Kaixian Qu et.al.|[2410.19697](http://arxiv.org/abs/2410.19697)|null|
 |**2024-10-31**|**Brain-like Functional Organization within Large Language Models**|Haiyang Sun et.al.|[2410.19542](http://arxiv.org/abs/2410.19542)|null|
 |**2024-10-24**|**Moving Object Segmentation in Point Cloud Data using Hidden Markov Models**|Vedant Bhandari et.al.|[2410.18638](http://arxiv.org/abs/2410.18638)|**[link](https://github.com/vb44/hmm-mos)**|
-|**2024-10-24**|**Multi-Stage Airway Segmentation in Lung CT Based on Multi-scale Nested Residual UNet**|Bingyu Yang et.al.|[2410.18456](http://arxiv.org/abs/2410.18456)|null|
+|**2024-11-10**|**Multi-Stage Airway Segmentation in Lung CT Based on Multi-scale Nested Residual UNet**|Bingyu Yang et.al.|[2410.18456](http://arxiv.org/abs/2410.18456)|null|
 |**2024-10-22**|**Dynamic Glucose Enhanced Imaging using Direct Water Saturation**|Linda Knutsson et.al.|[2410.17119](http://arxiv.org/abs/2410.17119)|null|
 |**2024-10-18**|**GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting**|Yusen Xie et.al.|[2410.17084](http://arxiv.org/abs/2410.17084)|null|
 |**2024-10-22**|**SPVSoAP3D: A Second-order Average Pooling Approach to enhance 3D Place Recognition in Horticultural Environments**|T. Barros et.al.|[2410.17017](http://arxiv.org/abs/2410.17017)|**[link](https://github.com/cybonic/spvsoap3d)**|
