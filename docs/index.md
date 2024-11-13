@@ -278,8 +278,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation**|Yushi Lan et.al.|[2411.08033](http://arxiv.org/abs/2411.08033)|null|
+|**2024-11-12**|**Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings**|Aditya Sanghi et.al.|[2411.08017](http://arxiv.org/abs/2411.08017)|null|
+|**2024-11-12**|**SP-VIO: Robust and Efficient Filter-Based Visual Inertial Odometry with State Transformation Model and Pose-Only Visual Description**|Xueyu Du et.al.|[2411.07551](http://arxiv.org/abs/2411.07551)|null|
 |**2024-11-11**|**SAMPart3D: Segment Any Part in 3D Objects**|Yunhan Yang et.al.|[2411.07184](http://arxiv.org/abs/2411.07184)|**[link](https://github.com/yhyang-myron/sampart3d-website)**|
-|**2024-11-11**|**Extreme Rotation Estimation in the Wild**|Hana Bezalel et.al.|[2411.07096](http://arxiv.org/abs/2411.07096)|null|
+|**2024-11-12**|**Extreme Rotation Estimation in the Wild**|Hana Bezalel et.al.|[2411.07096](http://arxiv.org/abs/2411.07096)|null|
 |**2024-11-10**|**Real-time Deformation-aware Control for Autonomous Robotic Subretinal Injection under iOCT Guidance**|Demir Arikan et.al.|[2411.06557](http://arxiv.org/abs/2411.06557)|null|
 |**2024-11-10**|**A novel algorithm for optimizing bundle adjustment in image sequence alignment**|Hailin Xu et.al.|[2411.06343](http://arxiv.org/abs/2411.06343)|null|
 |**2024-11-09**|**AI-Driven Stylization of 3D Environments**|Yuanbo Chen et.al.|[2411.06067](http://arxiv.org/abs/2411.06067)|null|
@@ -540,11 +543,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**Material Transforms from Disentangled NeRF Representations**|Ivan Lopes et.al.|[2411.08037](http://arxiv.org/abs/2411.08037)|**[link](https://github.com/astra-vision/brdftransform)**|
+|**2024-11-12**|**Novel View Synthesis with Pixel-Space Diffusion Models**|Noam Elata et.al.|[2411.07765](http://arxiv.org/abs/2411.07765)|null|
+|**2024-11-12**|**Projecting Gaussian Ellipsoids While Avoiding Affine Projection Approximation**|Han Qi et.al.|[2411.07579](http://arxiv.org/abs/2411.07579)|null|
+|**2024-11-12**|**Numerical Homogenization by Continuous Super-Resolution**|Zhi-Song Liu et.al.|[2411.07576](http://arxiv.org/abs/2411.07576)|null|
 |**2024-11-11**|**A Hierarchical Compression Technique for 3D Gaussian Splatting Compression**|He Huang et.al.|[2411.06976](http://arxiv.org/abs/2411.06976)|null|
 |**2024-11-11**|**LuSh-NeRF: Lighting up and Sharpening NeRFs for Low-light Scenes**|Zefan Qu et.al.|[2411.06757](http://arxiv.org/abs/2411.06757)|null|
 |**2024-11-10**|**Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction**|Decai Chen et.al.|[2411.06602](http://arxiv.org/abs/2411.06602)|null|
 |**2024-11-10**|**Local Implicit Wavelet Transformer for Arbitrary-Scale Super-Resolution**|Minghong Duan et.al.|[2411.06442](http://arxiv.org/abs/2411.06442)|**[link](https://github.com/dmhdmhdmh/liwt)**|
-|**2024-11-10**|**SplatFormer: Point Transformer for Robust 3D Gaussian Splatting**|Yutong Chen et.al.|[2411.06390](http://arxiv.org/abs/2411.06390)|**[link](https://github.com/ChenYutongTHU/SplatFormer)**|
+|**2024-11-12**|**SplatFormer: Point Transformer for Robust 3D Gaussian Splatting**|Yutong Chen et.al.|[2411.06390](http://arxiv.org/abs/2411.06390)|**[link](https://github.com/ChenYutongTHU/SplatFormer)**|
 |**2024-11-10**|**Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field**|Liuyue Xie et.al.|[2411.06365](http://arxiv.org/abs/2411.06365)|null|
 |**2024-11-09**|**Acoustic Volume Rendering for Neural Impulse Response Fields**|Zitong Lan et.al.|[2411.06307](http://arxiv.org/abs/2411.06307)|null|
 |**2024-11-09**|**HiHa: Introducing Hierarchical Harmonic Decomposition to Implicit Neural Compression for Atmospheric Data**|Zhewen Xu et.al.|[2411.06155](http://arxiv.org/abs/2411.06155)|null|
@@ -805,6 +812,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation**|Yushi Lan et.al.|[2411.08033](http://arxiv.org/abs/2411.08033)|null|
+|**2024-11-12**|**Learning Disentangled Representations for Perceptual Point Cloud Quality Assessment via Mutual Information Minimization**|Ziyu Shan et.al.|[2411.07936](http://arxiv.org/abs/2411.07936)|null|
+|**2024-11-12**|**Rendering-Oriented 3D Point Cloud Attribute Compression using Sparse Tensor-based Transformer**|Xiao Huo et.al.|[2411.07899](http://arxiv.org/abs/2411.07899)|null|
+|**2024-11-09**|**Reliable-loc: Robust sequential LiDAR global localization in large-scale street scenes based on verifiable cues**|Xianghong Zou et.al.|[2411.07815](http://arxiv.org/abs/2411.07815)|null|
+|**2024-11-12**|**Horticultural Temporal Fruit Monitoring via 3D Instance Segmentation and Re-Identification using Point Clouds**|Daniel Fusaro et.al.|[2411.07799](http://arxiv.org/abs/2411.07799)|**[link](https://github.com/prbonn/iris3d)**|
+|**2024-11-12**|**Constraint Learning for Parametric Point Cloud**|Xi Cheng et.al.|[2411.07747](http://arxiv.org/abs/2411.07747)|null|
+|**2024-11-12**|**Efficient 3D Perception on Multi-Sweep Point Cloud with Gumbel Spatial Pruning**|Jianhao Li et.al.|[2411.07742](http://arxiv.org/abs/2411.07742)|null|
+|**2024-11-12**|**3D Focusing-and-Matching Network for Multi-Instance Point Cloud Registration**|Liyuan Zhang et.al.|[2411.07740](http://arxiv.org/abs/2411.07740)|null|
+|**2024-11-12**|**No-Reference Point Cloud Quality Assessment via Graph Convolutional Network**|Wu Chen et.al.|[2411.07728](http://arxiv.org/abs/2411.07728)|null|
 |**2024-11-11**|**Automatic Contact-Based 3D Scanning Using Articulated Robotic Arm**|Shadman Tajwar Shahid et.al.|[2411.07047](http://arxiv.org/abs/2411.07047)|null|
 |**2024-11-11**|**Scaling Mesh Generation via Compressive Tokenization**|Haohan Weng et.al.|[2411.07025](http://arxiv.org/abs/2411.07025)|**[link](https://github.com/whaohan/bpt)**|
 |**2024-11-11**|**SIESEF-FusionNet: Spatial Inter-correlation Enhancement and Spatially-Embedded Feature Fusion Network for LiDAR Point Cloud Semantic Segmentation**|Jiale Chen et.al.|[2411.06991](http://arxiv.org/abs/2411.06991)|null|
@@ -875,10 +891,10 @@ layout: default
 |**2024-10-28**|**Quality Analysis of the Coding Bitrate Tradeoff Between Geometry and Attributes for Colored Point Clouds**|Joao Prazeres et.al.|[2410.21613](http://arxiv.org/abs/2410.21613)|null|
 |**2024-10-28**|**Exploring contextual modeling with linear complexity for point cloud segmentation**|Yong Xien Chng et.al.|[2410.21211](http://arxiv.org/abs/2410.21211)|null|
 |**2024-10-28**|**Evaluating the Robustness of LiDAR Point Cloud Tracking Against Adversarial Attack**|Shengjing Tian et.al.|[2410.20893](http://arxiv.org/abs/2410.20893)|null|
-|**2024-10-30**|**Transformer-Based Tooth Alignment Prediction With Occlusion And Collision Constraints**|ZhenXing Dong et.al.|[2410.20806](http://arxiv.org/abs/2410.20806)|null|
+|**2024-11-12**|**Transformer-Based Tooth Alignment Prediction With Occlusion And Collision Constraints**|ZhenXing Dong et.al.|[2410.20806](http://arxiv.org/abs/2410.20806)|null|
 |**2024-10-27**|**A Cosmic-Scale Benchmark for Symmetry-Preserving Data Processing**|Julia Balla et.al.|[2410.20516](http://arxiv.org/abs/2410.20516)|**[link](https://github.com/smsharma/eqnn-jax)**|
 |**2024-11-02**|**Point-PRC: A Prompt Learning Based Regulation Framework for Generalizable Point Cloud Analysis**|Hongyu Sun et.al.|[2410.20406](http://arxiv.org/abs/2410.20406)|**[link](https://github.com/auniquesun/point-prc)**|
-|**2024-10-26**|**LLMs Can Evolve Continually on Modality for X-Modal Reasoning**|Jiazuo Yu et.al.|[2410.20178](http://arxiv.org/abs/2410.20178)|**[link](https://github.com/jiazuoyu/pathweave)**|
+|**2024-11-12**|**LLMs Can Evolve Continually on Modality for X-Modal Reasoning**|Jiazuo Yu et.al.|[2410.20178](http://arxiv.org/abs/2410.20178)|**[link](https://github.com/jiazuoyu/pathweave)**|
 |**2024-10-25**|**Unsupervised Machine Learning for Detecting and Locating Human-Made Objects in 3D Point Cloud**|Hong Zhao et.al.|[2410.20006](http://arxiv.org/abs/2410.20006)|null|
 |**2024-10-10**|**The Geometry of Concepts: Sparse Autoencoder Feature Structure**|Yuxiao Li et.al.|[2410.19750](http://arxiv.org/abs/2410.19750)|null|
 |**2024-10-25**|**Inferring Neural Signed Distance Functions by Overfitting on Single Noisy Point Clouds through Finetuning Data-Driven based Priors**|Chao Chen et.al.|[2410.19680](http://arxiv.org/abs/2410.19680)|null|
@@ -1069,6 +1085,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**Skyrme-Hartree-Fock-Bogoliubov mass models on a 3D mesh: IV. Improved description of the isospin dependence of pairing**|Guilherme Grams et.al.|[2411.08007](http://arxiv.org/abs/2411.08007)|null|
 |**2024-11-11**|**Scaling Mesh Generation via Compressive Tokenization**|Haohan Weng et.al.|[2411.07025](http://arxiv.org/abs/2411.07025)|**[link](https://github.com/whaohan/bpt)**|
 |**2024-11-10**|**Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction**|Decai Chen et.al.|[2411.06602](http://arxiv.org/abs/2411.06602)|null|
 |**2024-11-05**|**A Theory of Stabilization by Skull Carving**|Mathieu Lamarre et.al.|[2411.05827](http://arxiv.org/abs/2411.05827)|null|
@@ -1327,9 +1344,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**Projecting Gaussian Ellipsoids While Avoiding Affine Projection Approximation**|Han Qi et.al.|[2411.07579](http://arxiv.org/abs/2411.07579)|null|
+|**2024-11-12**|**GaussianCut: Interactive segmentation via graph cut for 3D Gaussian Splatting**|Umangi Jain et.al.|[2411.07555](http://arxiv.org/abs/2411.07555)|null|
+|**2024-11-12**|**HiCoM: Hierarchical Coherent Motion for Streamable Dynamic Scene with 3D Gaussian Splatting**|Qiankun Gao et.al.|[2411.07541](http://arxiv.org/abs/2411.07541)|**[link](https://github.com/gqk/hicom)**|
+|**2024-11-12**|**GUS-IR: Gaussian Splatting with Unified Shading for Inverse Rendering**|Zhihao Liang et.al.|[2411.07478](http://arxiv.org/abs/2411.07478)|null|
 |**2024-11-11**|**A Hierarchical Compression Technique for 3D Gaussian Splatting Compression**|He Huang et.al.|[2411.06976](http://arxiv.org/abs/2411.06976)|null|
 |**2024-11-10**|**Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction**|Decai Chen et.al.|[2411.06602](http://arxiv.org/abs/2411.06602)|null|
-|**2024-11-10**|**SplatFormer: Point Transformer for Robust 3D Gaussian Splatting**|Yutong Chen et.al.|[2411.06390](http://arxiv.org/abs/2411.06390)|**[link](https://github.com/ChenYutongTHU/SplatFormer)**|
+|**2024-11-12**|**SplatFormer: Point Transformer for Robust 3D Gaussian Splatting**|Yutong Chen et.al.|[2411.06390](http://arxiv.org/abs/2411.06390)|**[link](https://github.com/ChenYutongTHU/SplatFormer)**|
 |**2024-11-10**|**Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field**|Liuyue Xie et.al.|[2411.06365](http://arxiv.org/abs/2411.06365)|null|
 |**2024-11-09**|**AI-Driven Stylization of 3D Environments**|Yuanbo Chen et.al.|[2411.06067](http://arxiv.org/abs/2411.06067)|null|
 |**2024-11-09**|**GaussianSpa: An "Optimizing-Sparsifying" Simplification Framework for Compact and High-Quality 3D Gaussian Splatting**|Yangming Zhang et.al.|[2411.06019](http://arxiv.org/abs/2411.06019)|null|
@@ -1588,6 +1609,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**$SE(3)$ Equivariant Ray Embeddings for Implicit Multi-View Depth Estimation**|Yinshuang Xu et.al.|[2411.07326](http://arxiv.org/abs/2411.07326)|null|
 |**2024-11-09**|**GaussianSpa: An "Optimizing-Sparsifying" Simplification Framework for Compact and High-Quality 3D Gaussian Splatting**|Yangming Zhang et.al.|[2411.06019](http://arxiv.org/abs/2411.06019)|null|
 |**2024-11-07**|**Planar Reflection-Aware Neural Radiance Fields**|Chen Gao et.al.|[2411.04984](http://arxiv.org/abs/2411.04984)|null|
 |**2024-11-05**|**VLA-3D: A Dataset for 3D Semantic Scene Understanding and Navigation**|Haochen Zhang et.al.|[2411.03540](http://arxiv.org/abs/2411.03540)|**[link](https://github.com/haochenz11/vla-3d)**|
@@ -1844,9 +1866,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**Rendering-Oriented 3D Point Cloud Attribute Compression using Sparse Tensor-based Transformer**|Xiao Huo et.al.|[2411.07899](http://arxiv.org/abs/2411.07899)|null|
+|**2024-11-12**|**Novel View Synthesis with Pixel-Space Diffusion Models**|Noam Elata et.al.|[2411.07765](http://arxiv.org/abs/2411.07765)|null|
+|**2024-11-12**|**Projecting Gaussian Ellipsoids While Avoiding Affine Projection Approximation**|Han Qi et.al.|[2411.07579](http://arxiv.org/abs/2411.07579)|null|
 |**2024-11-11**|**A Hierarchical Compression Technique for 3D Gaussian Splatting Compression**|He Huang et.al.|[2411.06976](http://arxiv.org/abs/2411.06976)|null|
 |**2024-11-10**|**Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction**|Decai Chen et.al.|[2411.06602](http://arxiv.org/abs/2411.06602)|null|
-|**2024-11-10**|**SplatFormer: Point Transformer for Robust 3D Gaussian Splatting**|Yutong Chen et.al.|[2411.06390](http://arxiv.org/abs/2411.06390)|**[link](https://github.com/ChenYutongTHU/SplatFormer)**|
+|**2024-11-12**|**SplatFormer: Point Transformer for Robust 3D Gaussian Splatting**|Yutong Chen et.al.|[2411.06390](http://arxiv.org/abs/2411.06390)|**[link](https://github.com/ChenYutongTHU/SplatFormer)**|
 |**2024-11-10**|**Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field**|Liuyue Xie et.al.|[2411.06365](http://arxiv.org/abs/2411.06365)|null|
 |**2024-11-09**|**Acoustic Volume Rendering for Neural Impulse Response Fields**|Zitong Lan et.al.|[2411.06307](http://arxiv.org/abs/2411.06307)|null|
 |**2024-11-09**|**GaussianSpa: An "Optimizing-Sparsifying" Simplification Framework for Compact and High-Quality 3D Gaussian Splatting**|Yangming Zhang et.al.|[2411.06019](http://arxiv.org/abs/2411.06019)|null|
@@ -2105,6 +2130,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**SegQC: a segmentation network-based framework for multi-metric segmentation quality control and segmentation error detection in volumetric medical images**|Bella Specktor-Fadida et.al.|[2411.07601](http://arxiv.org/abs/2411.07601)|null|
 |**2024-11-10**|**Few-shot Semantic Learning for Robust Multi-Biome 3D Semantic Mapping in Off-Road Environments**|Deegan Atha et.al.|[2411.06632](http://arxiv.org/abs/2411.06632)|null|
 |**2024-11-08**|**Untrained Perceptual Loss for image denoising of line-like structures in MR images**|Elisabeth Pfaehler et.al.|[2411.05884](http://arxiv.org/abs/2411.05884)|null|
 |**2024-11-06**|**Towards 3D Semantic Scene Completion for Autonomous Driving: A Meta-Learning Framework Empowered by Deformable Large-Kernel Attention and Mamba Model**|Yansong Qu et.al.|[2411.03672](http://arxiv.org/abs/2411.03672)|null|
