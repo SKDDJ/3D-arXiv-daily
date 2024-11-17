@@ -879,7 +879,7 @@ layout: default
 |**2024-11-04**|**SPACE: 3D Spatial Co-operation and Exploration Framework for Robust Mapping and Coverage with Multi-Robot Systems**|Sai Krishna Ghanta et.al.|[2411.02524](http://arxiv.org/abs/2411.02524)|null|
 |**2024-11-04**|**Reconstruction of Continuous Cosmological Fields from Discrete Tracers with Graph Neural Networks**|Yurii Kvasiuk et.al.|[2411.02496](http://arxiv.org/abs/2411.02496)|null|
 |**2024-11-04**|**Diffusion-based Virtual Fixtures**|Cem Bilaloglu et.al.|[2411.02169](http://arxiv.org/abs/2411.02169)|null|
-|**2024-11-04**|**Mining and Transferring Feature-Geometry Coherence for Unsupervised Point Cloud Registration**|Kezheng Xiong et.al.|[2411.01870](http://arxiv.org/abs/2411.01870)|null|
+|**2024-11-04**|**Mining and Transferring Feature-Geometry Coherence for Unsupervised Point Cloud Registration**|Kezheng Xiong et.al.|[2411.01870](http://arxiv.org/abs/2411.01870)|**[link](https://github.com/kezheng1204/integer)**|
 |**2024-11-04**|**Rotation Perturbation Robustness in Point Cloud Analysis: A Perspective of Manifold Distillation**|Xinyu Xu et.al.|[2411.01748](http://arxiv.org/abs/2411.01748)|null|
 |**2024-11-04**|**Next Best View For Point-Cloud Model Acquisition: Bayesian Approximation and Uncertainty Analysis**|Madalena Caldeira et.al.|[2411.01734](http://arxiv.org/abs/2411.01734)|null|
 |**2024-11-03**|**One for All: Multi-Domain Joint Training for Point Cloud Based 3D Object Detection**|Zhenyu Wang et.al.|[2411.01584](http://arxiv.org/abs/2411.01584)|null|
