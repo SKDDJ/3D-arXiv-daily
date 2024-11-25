@@ -1345,7 +1345,7 @@
 |**2024-08-08**|**Pore-resolved CFD in Digital Twin of Porous Monoliths Reconstructed by Micro-computed Tomography**|Olivier Guévremont et.al.|[2408.04711](http://arxiv.org/abs/2408.04711)|null|
 |**2024-08-06**|**An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion**|Xingguang Yan et.al.|[2408.03178](http://arxiv.org/abs/2408.03178)|null|
 |**2024-08-06**|**MGFs: Masked Gaussian Fields for Meshing Building based on Multi-View Images**|Tengfei Wang et.al.|[2408.03060](http://arxiv.org/abs/2408.03060)|null|
-|**2024-08-05**|**MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization**|Yiwen Chen et.al.|[2408.02555](http://arxiv.org/abs/2408.02555)|null|
+|**2024-08-05**|**MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization**|Yiwen Chen et.al.|[2408.02555](http://arxiv.org/abs/2408.02555)|**[link](https://github.com/buaacyw/meshanythingv2)**|
 |**2024-09-14**|**Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**|Xinlin Ren et.al.|[2408.02079](http://arxiv.org/abs/2408.02079)|**[link](https://github.com/maybeLx/MVS_NeuS)**|
 |**2024-08-03**|**iControl3D: An Interactive System for Controllable 3D Scene Generation**|Xingyi Li et.al.|[2408.01678](http://arxiv.org/abs/2408.01678)|**[link](https://github.com/xingyi-li/icontrol3d)**|
 |**2024-08-03**|**HIVE: HIerarchical Volume Encoding for Neural Implicit Surface Reconstruction**|Xiaodong Gu et.al.|[2408.01677](http://arxiv.org/abs/2408.01677)|null|
