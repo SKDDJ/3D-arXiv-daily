@@ -47,7 +47,7 @@ layout: default
 |**2024-10-27**|**Depth Attention for Robust RGB Tracking**|Yu Liu et.al.|[2410.20395](http://arxiv.org/abs/2410.20395)|**[link](https://github.com/liuyuml/depth-attention)**|
 |**2024-10-24**|**Thermal Chameleon: Task-Adaptive Tone-mapping for Radiometric Thermal-Infrared images**|Dong-Guw Lee et.al.|[2410.18340](http://arxiv.org/abs/2410.18340)|**[link](https://github.com/donkeymouse/thermalchameleon)**|
 |**2024-10-22**|**DCDepth: Progressive Monocular Depth Estimation in Discrete Cosine Domain**|Kun Wang et.al.|[2410.14980](http://arxiv.org/abs/2410.14980)|**[link](https://github.com/w2kun/dcdepth)**|
-|**2024-10-16**|**Depth Estimation From Monocular Images With Enhanced Encoder-Decoder Architecture**|Dabbrata Das et.al.|[2410.11610](http://arxiv.org/abs/2410.11610)|null|
+|**2024-10-16**|**Depth Estimation From Monocular Images With Enhanced Encoder-Decoder Architecture**|Dabbrata Das et.al.|[2410.11610](http://arxiv.org/abs/2410.11610)|**[link](https://github.com/dabbrata/depth-estimation-enc-dec)**|
 |**2024-10-09**|**Surgical Depth Anything: Depth Estimation for Surgical Scenes using Foundation Models**|Ange Lou et.al.|[2410.07434](http://arxiv.org/abs/2410.07434)|null|
 |**2024-10-09**|**Structure-Centric Robust Monocular Depth Estimation via Knowledge Distillation**|Runze Chen et.al.|[2410.06982](http://arxiv.org/abs/2410.06982)|null|
 |**2024-10-08**|**Vision Transformer based Random Walk for Group Re-Identification**|Guoqing Zhang et.al.|[2410.05808](http://arxiv.org/abs/2410.05808)|null|
@@ -299,7 +299,7 @@ layout: default
 |**2024-11-26**|**MVBoost: Boost 3D Reconstruction with Multi-View Refinement**|Xiangyu Liu et.al.|[2411.17772](http://arxiv.org/abs/2411.17772)|null|
 |**2024-11-26**|**Symmetry Strikes Back: From Single-Image Symmetry Detection to 3D Generation**|Xiang Li et.al.|[2411.17763](http://arxiv.org/abs/2411.17763)|null|
 |**2024-11-26**|**Puzzle Similarity: A Perceptually-guided No-Reference Metric for Artifact Detection in 3D Scene Reconstructions**|Nicolai Hermann et.al.|[2411.17489](http://arxiv.org/abs/2411.17489)|null|
-|**2024-11-26**|**Boost 3D Reconstruction using Diffusion-based Monocular Camera Calibration**|Junyuan Deng et.al.|[2411.17240](http://arxiv.org/abs/2411.17240)|null|
+|**2024-11-26**|**Boost 3D Reconstruction using Diffusion-based Monocular Camera Calibration**|Junyuan Deng et.al.|[2411.17240](http://arxiv.org/abs/2411.17240)|**[link](https://github.com/junyuandeng/dm-calib)**|
 |**2024-11-27**|**SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting**|Gyeongjin Kang et.al.|[2411.17190](http://arxiv.org/abs/2411.17190)|null|
 |**2024-11-25**|**PreF3R: Pose-Free Feed-Forward 3D Gaussian Splatting from Variable-length Image Sequence**|Zequn Chen et.al.|[2411.16877](http://arxiv.org/abs/2411.16877)|null|
 |**2024-11-25**|**SAR3D: Autoregressive 3D Object Generation and Understanding via Multi-scale 3D VQVAE**|Yongwei Chen et.al.|[2411.16856](http://arxiv.org/abs/2411.16856)|null|
@@ -613,7 +613,7 @@ layout: default
 |**2024-11-27**|**SmileSplat: Generalizable Gaussian Splats for Unconstrained Sparse Images**|Yanyan Li et.al.|[2411.18072](http://arxiv.org/abs/2411.18072)|null|
 |**2024-11-27**|**MeltpoolINR: Predicting temperature field, melt pool geometry, and their rate of change in laser powder bed fusion**|Manav Manav et.al.|[2411.18048](http://arxiv.org/abs/2411.18048)|null|
 |**2024-11-26**|**MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**|Yixiong Yang et.al.|[2411.17235](http://arxiv.org/abs/2411.17235)|null|
-|**2024-11-26**|**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**|Zihan Wang et.al.|[2411.17030](http://arxiv.org/abs/2411.17030)|**[link](https://github.com/MrZihan/g3D-LF)**|
+|**2024-11-26**|**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**|Zihan Wang et.al.|[2411.17030](http://arxiv.org/abs/2411.17030)|null|
 |**2024-11-25**|**The Radiance of Neural Fields: Democratizing Photorealistic and Dynamic Robotic Simulation**|Georgina Nuthall et.al.|[2411.16940](http://arxiv.org/abs/2411.16940)|null|
 |**2024-11-25**|**G2SDF: Surface Reconstruction from Explicit Gaussians with Implicit SDFs**|Kunyi Li et.al.|[2411.16898](http://arxiv.org/abs/2411.16898)|null|
 |**2024-11-25**|**PreF3R: Pose-Free Feed-Forward 3D Gaussian Splatting from Variable-length Image Sequence**|Zequn Chen et.al.|[2411.16877](http://arxiv.org/abs/2411.16877)|null|
@@ -947,12 +947,12 @@ layout: default
 |**2024-11-27**|**XR-MBT: Multi-modal Full Body Tracking for XR through Self-Supervision with Learned Depth Point Cloud Registration**|Denys Rozumnyi et.al.|[2411.18377](http://arxiv.org/abs/2411.18377)|null|
 |**2024-11-27**|**Helvipad: A Real-World Dataset for Omnidirectional Stereo Depth Estimation**|Mehdi Zayene et.al.|[2411.18335](http://arxiv.org/abs/2411.18335)|**[link](https://github.com/vita-epfl/Helvipad)**|
 |**2024-11-27**|**Towards Cross-device and Training-free Robotic Grasping in 3D Open World**|Weiguang Zhao et.al.|[2411.18133](http://arxiv.org/abs/2411.18133)|null|
-|**2024-11-26**|**MapEval: Towards Unified, Robust and Efficient SLAM Map Evaluation Framework**|Xiangcheng Hu et.al.|[2411.17928](http://arxiv.org/abs/2411.17928)|null|
+|**2024-11-26**|**MapEval: Towards Unified, Robust and Efficient SLAM Map Evaluation Framework**|Xiangcheng Hu et.al.|[2411.17928](http://arxiv.org/abs/2411.17928)|**[link](https://github.com/jokerjohn/cloud_map_evaluation)**|
 |**2024-11-26**|**Revisiting Point Cloud Completion: Are We Ready For The Real-World?**|Stuti Pathak et.al.|[2411.17580](http://arxiv.org/abs/2411.17580)|null|
 |**2024-11-25**|**Learning 3D Representations from Procedural 3D Programs**|Xuweiyi Chen et.al.|[2411.17467](http://arxiv.org/abs/2411.17467)|null|
 |**2024-11-26**|**NumGrad-Pull: Numerical Gradient Guided Tri-plane Representation for Surface Reconstruction from Point Clouds**|Ruikai Cui et.al.|[2411.17392](http://arxiv.org/abs/2411.17392)|**[link](https://github.com/cuiruikai/numgrad-pull)**|
 |**2024-11-26**|**X-MeshGraphNet: Scalable Multi-Scale Graph Neural Networks for Physics Simulation**|Mohammad Amin Nabian et.al.|[2411.17164](http://arxiv.org/abs/2411.17164)|**[link](https://github.com/nvidia/modulus)**|
-|**2024-11-26**|**D $^2$ -World: An Efficient World Model through Decoupled Dynamic Flow**|Haiming Zhang et.al.|[2411.17027](http://arxiv.org/abs/2411.17027)|null|
+|**2024-11-26**|**D $^2$ -World: An Efficient World Model through Decoupled Dynamic Flow**|Haiming Zhang et.al.|[2411.17027](http://arxiv.org/abs/2411.17027)|**[link](https://github.com/zhanghm1995/d2-world)**|
 |**2024-11-25**|**Curvature Informed Furthest Point Sampling**|Shubham Bhardwaj et.al.|[2411.16995](http://arxiv.org/abs/2411.16995)|null|
 |**2024-11-25**|**MICAS: Multi-grained In-Context Adaptive Sampling for 3D Point Cloud Processing**|Feifei Shao et.al.|[2411.16773](http://arxiv.org/abs/2411.16773)|null|
 |**2024-11-26**|**CutS3D: Cutting Semantics in 3D for 2D Unsupervised Instance Segmentation**|Leon Sick et.al.|[2411.16319](http://arxiv.org/abs/2411.16319)|null|
@@ -2489,10 +2489,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-27**|**Leveraging Semantic Asymmetry for Precise Gross Tumor Volume Segmentation of Nasopharyngeal Carcinoma in Planning CT**|Zi Li et.al.|[2411.18290](http://arxiv.org/abs/2411.18290)|null|
-|**2024-11-26**|**MapEval: Towards Unified, Robust and Efficient SLAM Map Evaluation Framework**|Xiangcheng Hu et.al.|[2411.17928](http://arxiv.org/abs/2411.17928)|null|
+|**2024-11-26**|**MapEval: Towards Unified, Robust and Efficient SLAM Map Evaluation Framework**|Xiangcheng Hu et.al.|[2411.17928](http://arxiv.org/abs/2411.17928)|**[link](https://github.com/jokerjohn/cloud_map_evaluation)**|
 |**2024-11-26**|**vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation**|Bastian Wittmann et.al.|[2411.17386](http://arxiv.org/abs/2411.17386)|null|
 |**2024-11-26**|**APT: Architectural Planning and Text-to-Blueprint Construction Using Large Language Models for Open-World Agents**|Jun Yu Chen et.al.|[2411.17255](http://arxiv.org/abs/2411.17255)|**[link](https://github.com/spearsheep/APT-Architectural-Planning-LLM-Agent)**|
-|**2024-11-26**|**D $^2$ -World: An Efficient World Model through Decoupled Dynamic Flow**|Haiming Zhang et.al.|[2411.17027](http://arxiv.org/abs/2411.17027)|null|
+|**2024-11-26**|**D $^2$ -World: An Efficient World Model through Decoupled Dynamic Flow**|Haiming Zhang et.al.|[2411.17027](http://arxiv.org/abs/2411.17027)|**[link](https://github.com/zhanghm1995/d2-world)**|
 |**2024-11-25**|**Oriented histogram-based vector field embedding for characterizing 4D CT data sets in radiotherapy**|Frederic Madesta et.al.|[2411.16314](http://arxiv.org/abs/2411.16314)|null|
 |**2024-11-25**|**Three Cars Approaching within 100m! Enhancing Distant Geometry by Tri-Axis Voxel Scanning for Camera-based Semantic Scene Completion**|Jongseong Bae et.al.|[2411.16129](http://arxiv.org/abs/2411.16129)|null|
 |**2024-11-25**|**Language Driven Occupancy Prediction**|Zhu Yu et.al.|[2411.16072](http://arxiv.org/abs/2411.16072)|**[link](https://github.com/pkqbajng/locc)**|
