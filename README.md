@@ -612,7 +612,7 @@
 |**2024-11-27**|**Towards Lensless Image Deblurring with Prior-Embedded Implicit Neural Representations in the Low-Data Regime**|Abeer Banerjee et.al.|[2411.18189](http://arxiv.org/abs/2411.18189)|null|
 |**2024-11-27**|**SmileSplat: Generalizable Gaussian Splats for Unconstrained Sparse Images**|Yanyan Li et.al.|[2411.18072](http://arxiv.org/abs/2411.18072)|null|
 |**2024-11-27**|**MeltpoolINR: Predicting temperature field, melt pool geometry, and their rate of change in laser powder bed fusion**|Manav Manav et.al.|[2411.18048](http://arxiv.org/abs/2411.18048)|null|
-|**2024-11-26**|**MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**|Yixiong Yang et.al.|[2411.17235](http://arxiv.org/abs/2411.17235)|null|
+|**2024-11-26**|**MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**|Yixiong Yang et.al.|[2411.17235](http://arxiv.org/abs/2411.17235)|**[link](https://github.com/liulisixin/mli-nerf)**|
 |**2024-11-26**|**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**|Zihan Wang et.al.|[2411.17030](http://arxiv.org/abs/2411.17030)|null|
 |**2024-11-25**|**The Radiance of Neural Fields: Democratizing Photorealistic and Dynamic Robotic Simulation**|Georgina Nuthall et.al.|[2411.16940](http://arxiv.org/abs/2411.16940)|null|
 |**2024-11-25**|**G2SDF: Surface Reconstruction from Explicit Gaussians with Implicit SDFs**|Kunyi Li et.al.|[2411.16898](http://arxiv.org/abs/2411.16898)|null|
@@ -945,7 +945,7 @@
 |---|---|---|---|---|
 |**2024-11-27**|**Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for Robust 3D Robotic Manipulation**|Yueru Jia et.al.|[2411.18623](http://arxiv.org/abs/2411.18623)|null|
 |**2024-11-27**|**A comparison of extended object tracking with multi-modal sensors in indoor environment**|Jiangtao Shuai et.al.|[2411.18476](http://arxiv.org/abs/2411.18476)|null|
-|**2024-11-27**|**Efficient Dynamic LiDAR Odometry for Mobile Robots with Structured Point Clouds**|Jonathan Lichtenfeld et.al.|[2411.18443](http://arxiv.org/abs/2411.18443)|null|
+|**2024-11-27**|**Efficient Dynamic LiDAR Odometry for Mobile Robots with Structured Point Clouds**|Jonathan Lichtenfeld et.al.|[2411.18443](http://arxiv.org/abs/2411.18443)|**[link](https://github.com/tu-darmstadt-ros-pkg/dynamic_direct_lidar_odometry)**|
 |**2024-11-27**|**XR-MBT: Multi-modal Full Body Tracking for XR through Self-Supervision with Learned Depth Point Cloud Registration**|Denys Rozumnyi et.al.|[2411.18377](http://arxiv.org/abs/2411.18377)|null|
 |**2024-11-27**|**Helvipad: A Real-World Dataset for Omnidirectional Stereo Depth Estimation**|Mehdi Zayene et.al.|[2411.18335](http://arxiv.org/abs/2411.18335)|**[link](https://github.com/vita-epfl/Helvipad)**|
 |**2024-11-27**|**Towards Cross-device and Training-free Robotic Grasping in 3D Open World**|Weiguang Zhao et.al.|[2411.18133](http://arxiv.org/abs/2411.18133)|null|
@@ -1610,7 +1610,7 @@
 |**2024-11-23**|**Gassidy: Gaussian Splatting SLAM in Dynamic Environments**|Long Wen et.al.|[2411.15476](http://arxiv.org/abs/2411.15476)|null|
 |**2024-11-23**|**SplatSDF: Boosting Neural Implicit SDF via Gaussian Splatting Fusion**|Runfa Blark Li et.al.|[2411.15468](http://arxiv.org/abs/2411.15468)|null|
 |**2024-11-22**|**UniGaussian: Driving Scene Reconstruction from Multiple Camera Models via Unified Gaussian Representations**|Yuan Ren et.al.|[2411.15355](http://arxiv.org/abs/2411.15355)|null|
-|**2024-11-19**|**Gradient-Weighted Feature Back-Projection: A Fast Alternative to Feature Distillation in 3D Gaussian Splatting**|Joji Joseph et.al.|[2411.15193](http://arxiv.org/abs/2411.15193)|null|
+|**2024-11-19**|**Gradient-Weighted Feature Back-Projection: A Fast Alternative to Feature Distillation in 3D Gaussian Splatting**|Joji Joseph et.al.|[2411.15193](http://arxiv.org/abs/2411.15193)|**[link](https://github.com/JojiJoseph/3dgs-gradient-backprojection)**|
 |**2024-11-22**|**Neural 4D Evolution under Large Topological Changes from 2D Images**|AmirHossein Naghi Razlighi et.al.|[2411.15018](http://arxiv.org/abs/2411.15018)|null|
 |**2024-11-26**|**3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes**|Jan Held et.al.|[2411.14974](http://arxiv.org/abs/2411.14974)|**[link](https://github.com/convexsplatting/convex-splatting)**|
 |**2024-11-22**|**Dynamics-Aware Gaussian Splatting Streaming Towards Fast On-the-Fly Training for 4D Reconstruction**|Zhening Liu et.al.|[2411.14847](http://arxiv.org/abs/2411.14847)|null|
