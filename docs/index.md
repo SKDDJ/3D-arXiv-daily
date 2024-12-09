@@ -525,7 +525,7 @@ layout: default
 |**2024-10-22**|**Speech to Reality: On-Demand Production using Natural Language, 3D Generative AI, and Discrete Robotic Assembly**|Alexander Htet Kyaw et.al.|[2409.18390](http://arxiv.org/abs/2409.18390)|null|
 |**2024-09-26**|**Long-lived neutron-star remnants from asymmetric binary neutron star mergers: element formation, kilonova signals and gravitational waves**|Sebastiano Bernuzzi et.al.|[2409.18185](http://arxiv.org/abs/2409.18185)|null|
 |**2024-10-28**|**Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction**|Jing He et.al.|[2409.18124](http://arxiv.org/abs/2409.18124)|null|
-|**2024-11-06**|**TFS-NeRF: Template-Free NeRF for Semantic 3D Reconstruction of Dynamic Scene**|Sandika Biswas et.al.|[2409.17459](http://arxiv.org/abs/2409.17459)|null|
+|**2024-11-06**|**TFS-NeRF: Template-Free NeRF for Semantic 3D Reconstruction of Dynamic Scene**|Sandika Biswas et.al.|[2409.17459](http://arxiv.org/abs/2409.17459)|**[link](https://github.com/sbsws88/tfs_nerf)**|
 |**2024-09-25**|**Disco4D: Disentangled 4D Human Generation and Animation from a Single Image**|Hui En Pang et.al.|[2409.17280](http://arxiv.org/abs/2409.17280)|null|
 |**2024-09-25**|**Generative Object Insertion in Gaussian Splatting with a Multi-View Diffusion Model**|Hongliang Zhong et.al.|[2409.16938](http://arxiv.org/abs/2409.16938)|**[link](https://github.com/jiutongbro/multiview_inpaint)**|
 |**2024-09-25**|**Towards Unified 3D Hair Reconstruction from Single-View Portraits**|Yujian Zheng et.al.|[2409.16863](http://arxiv.org/abs/2409.16863)|null|
@@ -950,7 +950,7 @@ layout: default
 |**2024-11-07**|**LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field**|Huan Wang et.al.|[2409.18057](http://arxiv.org/abs/2409.18057)|**[link](https://github.com/mingsun-tse/lightavatar-tensorflow)**|
 |**2024-09-26**|**Deblur e-NeRF: NeRF from Motion-Blurred Events under High-speed or Low-light Conditions**|Weng Fei Low et.al.|[2409.17988](http://arxiv.org/abs/2409.17988)|null|
 |**2024-09-26**|**Neural Implicit Representation for Highly Dynamic LiDAR Mapping and Odometry**|Qi Zhang et.al.|[2409.17729](http://arxiv.org/abs/2409.17729)|null|
-|**2024-11-06**|**TFS-NeRF: Template-Free NeRF for Semantic 3D Reconstruction of Dynamic Scene**|Sandika Biswas et.al.|[2409.17459](http://arxiv.org/abs/2409.17459)|null|
+|**2024-11-06**|**TFS-NeRF: Template-Free NeRF for Semantic 3D Reconstruction of Dynamic Scene**|Sandika Biswas et.al.|[2409.17459](http://arxiv.org/abs/2409.17459)|**[link](https://github.com/sbsws88/tfs_nerf)**|
 |**2024-09-25**|**Implicit Neural Representations for Simultaneous Reduction and Continuous Reconstruction of Multi-Altitude Climate Data**|Alif Bin Abdul Qayyum et.al.|[2409.17367](http://arxiv.org/abs/2409.17367)|**[link](https://github.com/alifbinabdulqayyum/multi-altitude-inn)**|
 |**2024-09-25**|**SeaSplat: Representing Underwater Scenes with 3D Gaussian Splatting and a Physically Grounded Image Formation Model**|Daniel Yang et.al.|[2409.17345](http://arxiv.org/abs/2409.17345)|null|
 |**2024-09-25**|**Streaming Neural Images**|Marcos V. Conde et.al.|[2409.17134](http://arxiv.org/abs/2409.17134)|null|
@@ -1257,7 +1257,7 @@ layout: default
 |**2024-11-12**|**LLMs Can Evolve Continually on Modality for X-Modal Reasoning**|Jiazuo Yu et.al.|[2410.20178](http://arxiv.org/abs/2410.20178)|**[link](https://github.com/jiazuoyu/pathweave)**|
 |**2024-10-25**|**Unsupervised Machine Learning for Detecting and Locating Human-Made Objects in 3D Point Cloud**|Hong Zhao et.al.|[2410.20006](http://arxiv.org/abs/2410.20006)|null|
 |**2024-10-10**|**The Geometry of Concepts: Sparse Autoencoder Feature Structure**|Yuxiao Li et.al.|[2410.19750](http://arxiv.org/abs/2410.19750)|null|
-|**2024-10-25**|**Inferring Neural Signed Distance Functions by Overfitting on Single Noisy Point Clouds through Finetuning Data-Driven based Priors**|Chao Chen et.al.|[2410.19680](http://arxiv.org/abs/2410.19680)|null|
+|**2024-10-25**|**Inferring Neural Signed Distance Functions by Overfitting on Single Noisy Point Clouds through Finetuning Data-Driven based Priors**|Chao Chen et.al.|[2410.19680](http://arxiv.org/abs/2410.19680)|**[link](https://github.com/chenchao15/localn2nm)**|
 |**2024-10-25**|**FastPCI: Motion-Structure Guided Fast Point Cloud Frame Interpolation**|Tianyu Zhang et.al.|[2410.19573](http://arxiv.org/abs/2410.19573)|**[link](https://github.com/genuszty/fastpci)**|
 |**2024-10-25**|**Fusion-then-Distillation: Toward Cross-modal Positive Distillation for Domain Adaptive 3D Semantic Segmentation**|Yao Wu et.al.|[2410.19446](http://arxiv.org/abs/2410.19446)|**[link](https://github.com/barcaaaa/ftd-plusplus)**|
 |**2024-10-24**|**MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision**|Ruicheng Wang et.al.|[2410.19115](http://arxiv.org/abs/2410.19115)|null|
@@ -1631,7 +1631,7 @@ layout: default
 |**2024-07-28**|**FreeShell: A Context-Free 4D Printing Technique for Fabricating Complex 3D Triangle Mesh Shells**|Chao Yuan et.al.|[2407.19533](http://arxiv.org/abs/2407.19533)|null|
 |**2024-07-27**|**Magic3DSketch: Create Colorful 3D Models From Sketch-Based 3D Modeling Guided by Text and Language-Image Pre-Training**|Ying Zang et.al.|[2407.19225](http://arxiv.org/abs/2407.19225)|null|
 |**2024-07-27**|**WindPoly: Polygonal Mesh Reconstruction via Winding Numbers**|Xin He et.al.|[2407.19208](http://arxiv.org/abs/2407.19208)|null|
-|**2024-07-25**|**VGGHeads: A Large-Scale Synthetic Dataset for 3D Human Heads**|Orest Kupyn et.al.|[2407.18245](http://arxiv.org/abs/2407.18245)|null|
+|**2024-07-25**|**VGGHeads: A Large-Scale Synthetic Dataset for 3D Human Heads**|Orest Kupyn et.al.|[2407.18245](http://arxiv.org/abs/2407.18245)|**[link](https://github.com/kupynorest/head_detector)**|
 |**2024-07-25**|**AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild**|Junho Park et.al.|[2407.18034](http://arxiv.org/abs/2407.18034)|**[link](https://github.com/redorangeyellowy/AttentionHand)**|
 |**2024-09-26**|**SR-CurvANN: Advancing 3D Surface Reconstruction through Curvature-Aware Neural Networks**|Marina Hernández-Bautista et.al.|[2407.17896](http://arxiv.org/abs/2407.17896)|null|
 |**2024-07-22**|**A discontinuous Galerkin method for the three-dimensional heterodimer model with application to prion-like proteins' dynamics**|Paola F. Antonietti et.al.|[2407.16065](http://arxiv.org/abs/2407.16065)|null|
@@ -1725,7 +1725,7 @@ layout: default
 |**2024-05-27**|**Anisotropic Gauss Reconstruction for Unoriented Point Clouds**|Yueji Ma et.al.|[2405.17193](http://arxiv.org/abs/2405.17193)|null|
 |**2024-05-27**|**PivotMesh: Generic 3D Mesh Generation via Pivot Vertices Guidance**|Haohan Weng et.al.|[2405.16890](http://arxiv.org/abs/2405.16890)|null|
 |**2024-05-24**|**LAM3D: Large Image-Point-Cloud Alignment Model for 3D Reconstruction from Single Image**|Ruikai Cui et.al.|[2405.15622](http://arxiv.org/abs/2405.15622)|null|
-|**2024-05-23**|**NeCGS: Neural Compression for 3D Geometry Sets**|Siyu Ren et.al.|[2405.15034](http://arxiv.org/abs/2405.15034)|null|
+|**2024-05-23**|**NeCGS: Neural Compression for 3D Geometry Sets**|Siyu Ren et.al.|[2405.15034](http://arxiv.org/abs/2405.15034)|**[link](https://github.com/rsy6318/necgs)**|
 |**2024-05-23**|**CraftsMan: High-fidelity Mesh Generation with 3D Native Generation and Interactive Geometry Refiner**|Weiyu Li et.al.|[2405.14979](http://arxiv.org/abs/2405.14979)|**[link](https://github.com/wyysf-98/craftsman)**|
 |**2024-10-14**|**LDM: Large Tensorial SDF Model for Textured Mesh Generation**|Rengan Xie et.al.|[2405.14580](http://arxiv.org/abs/2405.14580)|**[link](https://github.com/rgxie/ldm)**|
 |**2024-05-24**|**RoGS: Large Scale Road Surface Reconstruction based on 2D Gaussian Splatting**|Zhiheng Feng et.al.|[2405.14342](http://arxiv.org/abs/2405.14342)|**[link](https://github.com/fzhiheng/RoGS)**|
@@ -2282,7 +2282,7 @@ layout: default
 |**2024-07-05**|**Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis**|Basile Van Hoorick et.al.|[2405.14868](http://arxiv.org/abs/2405.14868)|null|
 |**2024-05-22**|**TS40K: a 3D Point Cloud Dataset of Rural Terrain and Electrical Transmission System**|Diogo Lavado et.al.|[2405.13989](http://arxiv.org/abs/2405.13989)|null|
 |**2024-05-22**|**Monocular Gaussian SLAM with Language Extended Loop Closure**|Tian Lan et.al.|[2405.13748](http://arxiv.org/abs/2405.13748)|null|
-|**2024-07-11**|**CoR-GS: Sparse-View 3D Gaussian Splatting via Co-Regularization**|Jiawei Zhang et.al.|[2405.12110](http://arxiv.org/abs/2405.12110)|null|
+|**2024-07-11**|**CoR-GS: Sparse-View 3D Gaussian Splatting via Co-Regularization**|Jiawei Zhang et.al.|[2405.12110](http://arxiv.org/abs/2405.12110)|**[link](https://github.com/jiaw-z/CoR-GS)**|
 |**2024-07-24**|**Unifying 3D Vision-Language Understanding via Promptable Queries**|Ziyu Zhu et.al.|[2405.11442](http://arxiv.org/abs/2405.11442)|null|
 |**2024-05-16**|**Grounded 3D-LLM with Referent Tokens**|Yilun Chen et.al.|[2405.10370](http://arxiv.org/abs/2405.10370)|**[link](https://github.com/OpenRobotLab/Grounded_3D-LLM)**|
 |**2024-05-16**|**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**|Xianzheng Ma et.al.|[2405.10255](http://arxiv.org/abs/2405.10255)|**[link](https://github.com/activevisionlab/awesome-llm-3d)**|
@@ -2610,7 +2610,7 @@ layout: default
 |**2024-10-08**|**CUBE360: Learning Cubic Field Representation for Monocular 360 Depth Estimation for Virtual Reality**|Wenjie Chang et.al.|[2410.05735](http://arxiv.org/abs/2410.05735)|null|
 |**2024-10-11**|**PH-Dropout: Practical Epistemic Uncertainty Quantification for View Synthesis**|Chuanhao Sun et.al.|[2410.05468](http://arxiv.org/abs/2410.05468)|**[link](https://github.com/thanostriantafyllou3/ph-dropout)**|
 |**2024-10-07**|**DreamSat: Towards a General 3D Model for Novel View Synthesis of Space Objects**|Nidhi Mathihalli et.al.|[2410.05097](http://arxiv.org/abs/2410.05097)|**[link](https://github.com/arclab-mit/space-nvs)**|
-|**2024-10-29**|**GARField: Addressing the visual Sim-to-Real gap in garment manipulation with mesh-attached radiance fields**|Donatien Delehelle et.al.|[2410.05038](http://arxiv.org/abs/2410.05038)|null|
+|**2024-10-29**|**GARField: Addressing the visual Sim-to-Real gap in garment manipulation with mesh-attached radiance fields**|Donatien Delehelle et.al.|[2410.05038](http://arxiv.org/abs/2410.05038)|**[link](https://github.com/ddonatien/GARField)**|
 |**2024-10-10**|**6DGS: Enhanced Direction-Aware Gaussian Splatting for Volumetric Rendering**|Zhongpai Gao et.al.|[2410.04974](http://arxiv.org/abs/2410.04974)|null|
 |**2024-10-07**|**TeX-NeRF: Neural Radiance Fields from Pseudo-TeX Vision**|Chonghao Zhong et.al.|[2410.04873](http://arxiv.org/abs/2410.04873)|null|
 |**2024-10-06**|**Mode-GS: Monocular Depth Guided Anchored 3D Gaussian Splatting for Robust Ground-View Scene Rendering**|Yonghan Lee et.al.|[2410.04646](http://arxiv.org/abs/2410.04646)|null|
@@ -3046,7 +3046,7 @@ layout: default
 |**2024-06-30**|**Vox-UDA: Voxel-wise Unsupervised Domain Adaptation for Cryo-Electron Subtomogram Segmentation with Denoised Pseudo Labeling**|Haoran Li et.al.|[2406.18610](http://arxiv.org/abs/2406.18610)|null|
 |**2024-06-26**|**AlignedCut: Visual Concepts Discovery on Brain-Guided Universal Feature Space**|Huzheng Yang et.al.|[2406.18344](http://arxiv.org/abs/2406.18344)|null|
 |**2024-06-25**|**Additively manufacturable high-strength aluminum alloys with thermally stable microstructures enabled by hybrid machine learning-based design**|S. Mohadeseh Taheri-Mousavi et.al.|[2406.17457](http://arxiv.org/abs/2406.17457)|null|
-|**2024-07-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249](http://arxiv.org/abs/2406.17249)|null|
+|**2024-07-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249](http://arxiv.org/abs/2406.17249)|**[link](https://github.com/xurobotics/slide_slam)**|
 |**2024-06-24**|**GATSBI: An Online GTSP-Based Algorithm for Targeted Surface Bridge Inspection and Defect Detection**|Harnaik Dhami et.al.|[2406.16625](http://arxiv.org/abs/2406.16625)|**[link](https://github.com/raaslab/gatsbi)**|
 |**2024-06-24**|**Articulate your NeRF: Unsupervised articulated object modeling via conditional view synthesis**|Jianning Deng et.al.|[2406.16623](http://arxiv.org/abs/2406.16623)|null|
 |**2024-07-01**|**Fuzzy Attention-based Border Rendering Network for Lung Organ Segmentation**|Sheng Zhang et.al.|[2406.16189](http://arxiv.org/abs/2406.16189)|null|
