@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.09
+## Updated on 2024.12.10
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -673,7 +673,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-06**|**Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories**|Susung Hong et.al.|[2412.05279](http://arxiv.org/abs/2412.05279)|null|
-|**2024-12-06**|**Extrapolated Urban View Synthesis Benchmark**|Xiangyu Han et.al.|[2412.05256](http://arxiv.org/abs/2412.05256)|null|
+|**2024-12-06**|**Extrapolated Urban View Synthesis Benchmark**|Xiangyu Han et.al.|[2412.05256](http://arxiv.org/abs/2412.05256)|**[link](https://github.com/ai4ce/EUVS-Benchmark)**|
 |**2024-12-06**|**MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussian Splatting**|Peng Chen et.al.|[2412.04955](http://arxiv.org/abs/2412.04955)|**[link](https://github.com/chenvoid/mga)**|
 |**2024-12-06**|**Pushing Rendering Boundaries: Hard Gaussian Splatting**|Qingshan Xu et.al.|[2412.04826](http://arxiv.org/abs/2412.04826)|null|
 |**2024-12-05**|**Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering**|Cheng Sun et.al.|[2412.04459](http://arxiv.org/abs/2412.04459)|null|
@@ -1763,9 +1763,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-06**|**Extrapolated Urban View Synthesis Benchmark**|Xiangyu Han et.al.|[2412.05256](http://arxiv.org/abs/2412.05256)|null|
+|**2024-12-06**|**Extrapolated Urban View Synthesis Benchmark**|Xiangyu Han et.al.|[2412.05256](http://arxiv.org/abs/2412.05256)|**[link](https://github.com/ai4ce/EUVS-Benchmark)**|
 |**2024-12-06**|**MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussian Splatting**|Peng Chen et.al.|[2412.04955](http://arxiv.org/abs/2412.04955)|**[link](https://github.com/chenvoid/mga)**|
-|**2024-12-06**|**Momentum-GS: Momentum Gaussian Self-Distillation for High-Quality Large Scene Reconstruction**|Jixuan Fan et.al.|[2412.04887](http://arxiv.org/abs/2412.04887)|null|
+|**2024-12-06**|**Momentum-GS: Momentum Gaussian Self-Distillation for High-Quality Large Scene Reconstruction**|Jixuan Fan et.al.|[2412.04887](http://arxiv.org/abs/2412.04887)|**[link](https://github.com/Jixuan-Fan/Momentum-GS)**|
 |**2024-12-06**|**WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting**|Chaozheng Wen et.al.|[2412.04832](http://arxiv.org/abs/2412.04832)|null|
 |**2024-12-06**|**Pushing Rendering Boundaries: Hard Gaussian Splatting**|Qingshan Xu et.al.|[2412.04826](http://arxiv.org/abs/2412.04826)|null|
 |**2024-12-05**|**Turbo3D: Ultra-fast Text-to-3D Generation**|Hanzhe Hu et.al.|[2412.04470](http://arxiv.org/abs/2412.04470)|null|
@@ -2453,7 +2453,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-06**|**Extrapolated Urban View Synthesis Benchmark**|Xiangyu Han et.al.|[2412.05256](http://arxiv.org/abs/2412.05256)|null|
+|**2024-12-06**|**Extrapolated Urban View Synthesis Benchmark**|Xiangyu Han et.al.|[2412.05256](http://arxiv.org/abs/2412.05256)|**[link](https://github.com/ai4ce/EUVS-Benchmark)**|
 |**2024-12-06**|**Pushing Rendering Boundaries: Hard Gaussian Splatting**|Qingshan Xu et.al.|[2412.04826](http://arxiv.org/abs/2412.04826)|null|
 |**2024-12-05**|**Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering**|Cheng Sun et.al.|[2412.04459](http://arxiv.org/abs/2412.04459)|null|
 |**2024-12-05**|**Monocular Dynamic Gaussian Splatting is Fast and Brittle but Smooth Motion Helps**|Yiqing Liang et.al.|[2412.04457](http://arxiv.org/abs/2412.04457)|null|
