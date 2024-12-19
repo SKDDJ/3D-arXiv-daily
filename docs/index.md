@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.18
+## Updated on 2024.12.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -1959,7 +1959,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-17**|**Real-time Free-view Human Rendering from Sparse-view RGB Videos using Double Unprojected Textures**|Guoxing Sun et.al.|[2412.13183](http://arxiv.org/abs/2412.13183)|null|
 |**2024-12-17**|**EOGS: Gaussian Splatting for Earth Observation**|Luca Savant Aira et.al.|[2412.13047](http://arxiv.org/abs/2412.13047)|null|
-|**2024-12-17**|**4DRGS: 4D Radiative Gaussian Splatting for Efficient 3D Vessel Reconstruction from Sparse-View Dynamic DSA Images**|Zhentao Liu et.al.|[2412.12919](http://arxiv.org/abs/2412.12919)|null|
+|**2024-12-17**|**4DRGS: 4D Radiative Gaussian Splatting for Efficient 3D Vessel Reconstruction from Sparse-View Dynamic DSA Images**|Zhentao Liu et.al.|[2412.12919](http://arxiv.org/abs/2412.12919)|**[link](https://github.com/ShanghaiTech-IMPACT/4DRGS)**|
 |**2024-12-17**|**CATSplat: Context-Aware Transformer with Spatial Guidance for Generalizable 3D Gaussian Splatting from A Single-View Image**|Wonseok Roh et.al.|[2412.12906](http://arxiv.org/abs/2412.12906)|null|
 |**2024-12-17**|**HyperGS: Hyperspectral 3D Gaussian Splatting**|Christopher Thirgood et.al.|[2412.12849](http://arxiv.org/abs/2412.12849)|null|
 |**2024-12-17**|**Gaussian Billboards: Expressive 2D Gaussian Splatting with Textures**|Sebastian Weiss et.al.|[2412.12734](http://arxiv.org/abs/2412.12734)|null|
@@ -3095,7 +3095,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-17**|**GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding**|Haoyi Jiang et.al.|[2412.13193](http://arxiv.org/abs/2412.13193)|**[link](https://github.com/hustvl/gausstr)**|
-|**2024-12-17**|**4DRGS: 4D Radiative Gaussian Splatting for Efficient 3D Vessel Reconstruction from Sparse-View Dynamic DSA Images**|Zhentao Liu et.al.|[2412.12919](http://arxiv.org/abs/2412.12919)|null|
+|**2024-12-17**|**4DRGS: 4D Radiative Gaussian Splatting for Efficient 3D Vessel Reconstruction from Sparse-View Dynamic DSA Images**|Zhentao Liu et.al.|[2412.12919](http://arxiv.org/abs/2412.12919)|**[link](https://github.com/ShanghaiTech-IMPACT/4DRGS)**|
 |**2024-10-29**|**Magnetic sub-micron rods for quantitative viscosity imaging using heterodyne holography**|C. Gentner et.al.|[2412.12099](http://arxiv.org/abs/2412.12099)|null|
 |**2024-12-16**|**Event-based Motion Deblurring via Multi-Temporal Granularity Fusion**|Xiaopeng Lin et.al.|[2412.11866](http://arxiv.org/abs/2412.11866)|null|
 |**2024-12-15**|**ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction**|Yi Feng et.al.|[2412.11210](http://arxiv.org/abs/2412.11210)|**[link](https://github.com/fengyi233/ViPOcc)**|
