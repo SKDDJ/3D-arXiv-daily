@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -1686,7 +1686,7 @@ layout: default
 |**2024-12-18**|**MMHMR: Generative Masked Modeling for Hand Mesh Recovery**|Muhammad Usama Saleem et.al.|[2412.13393](http://arxiv.org/abs/2412.13393)|null|
 |**2024-12-17**|**iRBSM: A Deep Implicit 3D Breast Shape Model**|Maximilian Weiherer et.al.|[2412.13244](http://arxiv.org/abs/2412.13244)|null|
 |**2024-12-16**|**Towards Real-time Adaptive Anisotropic Image-to-mesh Conversion for Vascular Flow Simulations**|Kevin Garner et.al.|[2412.13222](http://arxiv.org/abs/2412.13222)|null|
-|**2024-12-17**|**An Entropy Stable High-Order Discontinuous Galerkin Method on Cut Meshes**|Christina G. Taylor et.al.|[2412.13002](http://arxiv.org/abs/2412.13002)|null|
+|**2024-12-17**|**An Entropy Stable High-Order Discontinuous Galerkin Method on Cut Meshes**|Christina G. Taylor et.al.|[2412.13002](http://arxiv.org/abs/2412.13002)|**[link](https://github.com/cgt3/es-cutdg)**|
 |**2024-12-17**|**Gaussian Billboards: Expressive 2D Gaussian Splatting with Textures**|Sebastian Weiss et.al.|[2412.12734](http://arxiv.org/abs/2412.12734)|null|
 |**2024-12-16**|**MeshArt: Generating Articulated Meshes with Structure-guided Transformers**|Daoyi Gao et.al.|[2412.11596](http://arxiv.org/abs/2412.11596)|null|
 |**2024-12-15**|**Sonicmesh: Enhancing 3D Human Mesh Reconstruction in Vision-Impaired Environments With Acoustic Signals**|Xiaoxuan Liang et.al.|[2412.11325](http://arxiv.org/abs/2412.11325)|null|
@@ -3165,7 +3165,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-19**|**A linear regression model for quantile function data applied to paired pulmonary 3d CT scans**|Marie-Félicia Béclin et.al.|[2412.15049](http://arxiv.org/abs/2412.15049)|null|
-|**2024-12-19**|**MUSTER: Longitudinal Deformable Registration by Composition of Consecutive Deformations**|Edvard O. S. Grødem et.al.|[2412.14671](http://arxiv.org/abs/2412.14671)|null|
+|**2024-12-19**|**MUSTER: Longitudinal Deformable Registration by Composition of Consecutive Deformations**|Edvard O. S. Grødem et.al.|[2412.14671](http://arxiv.org/abs/2412.14671)|**[link](https://github.com/crai-ous/muster)**|
 |**2024-12-19**|**Color Enhancement for V-PCC Compressed Point Cloud via 2D Attribute Map Optimization**|Jingwei Bao et.al.|[2412.14449](http://arxiv.org/abs/2412.14449)|null|
 |**2024-12-18**|**An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training**|Haiming Zhang et.al.|[2412.13772](http://arxiv.org/abs/2412.13772)|null|
 |**2024-12-18**|**Multi-View Pedestrian Occupancy Prediction with a Novel Synthetic Dataset**|Sithu Aung et.al.|[2412.13569](http://arxiv.org/abs/2412.13569)|null|
@@ -3227,7 +3227,7 @@ layout: default
 |**2024-11-21**|**FruitNinja: 3D Object Interior Texture Generation with Gaussian Splatting**|Fangyu Wu et.al.|[2411.12089](http://arxiv.org/abs/2411.12089)|null|
 |**2024-11-18**|**Equivariant spatio-hemispherical networks for diffusion MRI deconvolution**|Axel Elaldi et.al.|[2411.11819](http://arxiv.org/abs/2411.11819)|**[link](https://github.com/axelelaldi/fast-equivariant-deconv)**|
 |**2024-11-17**|**Image-Based RKPM for Accessing Failure Mechanisms in Composite Materials**|Yanran Wang et.al.|[2411.10998](http://arxiv.org/abs/2411.10998)|null|
-|**2024-11-16**|**MRI Parameter Mapping via Gaussian Mixture VAE: Breaking the Assumption of Independent Pixels**|Moucheng Xu et.al.|[2411.10772](http://arxiv.org/abs/2411.10772)|**[link](https://github.com/moucheng2017/MRI-GMM-VAE)**|
+|**2024-11-16**|**MRI Parameter Mapping via Gaussian Mixture VAE: Breaking the Assumption of Independent Pixels**|Moucheng Xu et.al.|[2411.10772](http://arxiv.org/abs/2411.10772)|null|
 |**2024-11-15**|**Voxel-Aggergated Feature Synthesis: Efficient Dense Mapping for Simulated 3D Reasoning**|Owen Burns et.al.|[2411.10616](http://arxiv.org/abs/2411.10616)|null|
 |**2024-11-14**|**MICCAI-CDMRI 2023 QuantConn Challenge Findings on Achieving Robust Quantitative Connectivity through Harmonized Preprocessing of Diffusion MRI**|Nancy R. Newlin et.al.|[2411.09618](http://arxiv.org/abs/2411.09618)|**[link](https://github.com/nancynewlin-masi/QuantConn)**|
 |**2024-11-13**|**Somatosensory and motor contributions to emotion representation**|Marianne C. Reddan et.al.|[2411.08973](http://arxiv.org/abs/2411.08973)|null|

@@ -1,4 +1,4 @@
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -301,7 +301,7 @@
 |**2024-02-23**|**AltNeRF: Learning Robust Neural Radiance Field via Alternating Depth-Pose Optimization**|Kun Wang et.al.|[2308.10001](http://arxiv.org/abs/2308.10001)|null|
 |**2023-08-18**|**Robust Monocular Depth Estimation under Challenging Conditions**|Stefano Gasperini et.al.|[2308.09711](http://arxiv.org/abs/2308.09711)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## 3D Generation
 
@@ -741,7 +741,7 @@
 |**2024-08-06**|**CityX: Controllable Procedural Content Generation for Unbounded 3D Cities**|Shougao Zhang et.al.|[2407.17572](http://arxiv.org/abs/2407.17572)|null|
 |**2024-10-21**|**She's Got Her Mother's Hair: Unveiling the Origin of Black Hole Magnetic Fields through Stellar to Collapsar Simulations**|Ore Gottlieb et.al.|[2407.16745](http://arxiv.org/abs/2407.16745)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## NeRF
 
@@ -1179,7 +1179,7 @@
 |**2024-08-30**|**2DGH: 2D Gaussian-Hermite Splatting for High-quality Rendering and Better Geometry Reconstruction**|Ruihan Yu et.al.|[2408.16982](http://arxiv.org/abs/2408.16982)|null|
 |**2024-08-29**|**GameIR: A Large-Scale Synthesized Ground-Truth Dataset for Image Restoration over Gaming Content**|Lebin Zhou et.al.|[2408.16866](http://arxiv.org/abs/2408.16866)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## 3D Point Cloud
 
@@ -1676,7 +1676,7 @@
 |**2024-09-19**|**PVContext: Hybrid Context Model for Point Cloud Compression**|Guoqing Zhang et.al.|[2409.12724](http://arxiv.org/abs/2409.12724)|null|
 |**2024-09-23**|**Accurate Automatic 3D Annotation of Traffic Lights and Signs for Autonomous Driving**|Sándor Kunsági-Máté et.al.|[2409.12620](http://arxiv.org/abs/2409.12620)|**[link](https://github.com/aimotive/aimotive_tl_ts_dataset)**|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## 3D Mesh
 
@@ -1690,7 +1690,7 @@
 |**2024-12-18**|**MMHMR: Generative Masked Modeling for Hand Mesh Recovery**|Muhammad Usama Saleem et.al.|[2412.13393](http://arxiv.org/abs/2412.13393)|null|
 |**2024-12-17**|**iRBSM: A Deep Implicit 3D Breast Shape Model**|Maximilian Weiherer et.al.|[2412.13244](http://arxiv.org/abs/2412.13244)|null|
 |**2024-12-16**|**Towards Real-time Adaptive Anisotropic Image-to-mesh Conversion for Vascular Flow Simulations**|Kevin Garner et.al.|[2412.13222](http://arxiv.org/abs/2412.13222)|null|
-|**2024-12-17**|**An Entropy Stable High-Order Discontinuous Galerkin Method on Cut Meshes**|Christina G. Taylor et.al.|[2412.13002](http://arxiv.org/abs/2412.13002)|null|
+|**2024-12-17**|**An Entropy Stable High-Order Discontinuous Galerkin Method on Cut Meshes**|Christina G. Taylor et.al.|[2412.13002](http://arxiv.org/abs/2412.13002)|**[link](https://github.com/cgt3/es-cutdg)**|
 |**2024-12-17**|**Gaussian Billboards: Expressive 2D Gaussian Splatting with Textures**|Sebastian Weiss et.al.|[2412.12734](http://arxiv.org/abs/2412.12734)|null|
 |**2024-12-16**|**MeshArt: Generating Articulated Meshes with Structure-guided Transformers**|Daoyi Gao et.al.|[2412.11596](http://arxiv.org/abs/2412.11596)|null|
 |**2024-12-15**|**Sonicmesh: Enhancing 3D Human Mesh Reconstruction in Vision-Impaired Environments With Acoustic Signals**|Xiaoxuan Liang et.al.|[2412.11325](http://arxiv.org/abs/2412.11325)|null|
@@ -2008,7 +2008,7 @@
 |**2024-05-09**|**Perceptual Crack Detection for Rendered 3D Textured Meshes**|Armin Shafiee Sarvestani et.al.|[2405.06143](http://arxiv.org/abs/2405.06143)|**[link](https://github.com/arshafiee/crack-detection-vvm)**|
 |**2024-05-08**|**Editing Mesh Sequences with Varying Connectivity**|Filip Hácha et.al.|[2405.04957](http://arxiv.org/abs/2405.04957)|**[link](https://gitlab.com/hachaf/tvm-editing)**|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## Gaussian Splatting
 
@@ -2479,7 +2479,7 @@
 |**2024-08-14**|**Progressive Radiance Distillation for Inverse Rendering with Gaussian Splatting**|Keyang Ye et.al.|[2408.07595](http://arxiv.org/abs/2408.07595)|null|
 |**2024-08-14**|**3D Gaussian Editing with A Single Image**|Guan Luo et.al.|[2408.07540](http://arxiv.org/abs/2408.07540)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## 3D Scene Understanding
 
@@ -2769,7 +2769,7 @@
 |**2024-03-22**|**MC-NeRF: Multi-Camera Neural Radiance Fields for Multi-Camera Image Acquisition Systems**|Yu Gao et.al.|[2309.07846](http://arxiv.org/abs/2309.07846)|null|
 |**2024-08-13**|**Indoor Scene Reconstruction with Fine-Grained Details Using Hybrid Representation and Normal Prior Enhancement**|Sheng Ye et.al.|[2309.07640](http://arxiv.org/abs/2309.07640)|**[link](https://github.com/yec22/fine-grained-indoor-recon)**|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## Neural Rendering
 
@@ -3170,14 +3170,14 @@
 |**2024-07-14**|**RS-NeRF: Neural Radiance Fields from Rolling Shutter Images**|Muyao Niu et.al.|[2407.10267](http://arxiv.org/abs/2407.10267)|**[link](https://github.com/myniuuu/rs-nerf)**|
 |**2024-07-14**|**SpikeGS: 3D Gaussian Splatting from Spike Streams with High-Speed Camera Motion**|Jiyuan Zhang et.al.|[2407.10062](http://arxiv.org/abs/2407.10062)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## Voxel
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-12-19**|**A linear regression model for quantile function data applied to paired pulmonary 3d CT scans**|Marie-Félicia Béclin et.al.|[2412.15049](http://arxiv.org/abs/2412.15049)|null|
-|**2024-12-19**|**MUSTER: Longitudinal Deformable Registration by Composition of Consecutive Deformations**|Edvard O. S. Grødem et.al.|[2412.14671](http://arxiv.org/abs/2412.14671)|null|
+|**2024-12-19**|**MUSTER: Longitudinal Deformable Registration by Composition of Consecutive Deformations**|Edvard O. S. Grødem et.al.|[2412.14671](http://arxiv.org/abs/2412.14671)|**[link](https://github.com/crai-ous/muster)**|
 |**2024-12-19**|**Color Enhancement for V-PCC Compressed Point Cloud via 2D Attribute Map Optimization**|Jingwei Bao et.al.|[2412.14449](http://arxiv.org/abs/2412.14449)|null|
 |**2024-12-18**|**An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training**|Haiming Zhang et.al.|[2412.13772](http://arxiv.org/abs/2412.13772)|null|
 |**2024-12-18**|**Multi-View Pedestrian Occupancy Prediction with a Novel Synthetic Dataset**|Sithu Aung et.al.|[2412.13569](http://arxiv.org/abs/2412.13569)|null|
@@ -3239,7 +3239,7 @@
 |**2024-11-21**|**FruitNinja: 3D Object Interior Texture Generation with Gaussian Splatting**|Fangyu Wu et.al.|[2411.12089](http://arxiv.org/abs/2411.12089)|null|
 |**2024-11-18**|**Equivariant spatio-hemispherical networks for diffusion MRI deconvolution**|Axel Elaldi et.al.|[2411.11819](http://arxiv.org/abs/2411.11819)|**[link](https://github.com/axelelaldi/fast-equivariant-deconv)**|
 |**2024-11-17**|**Image-Based RKPM for Accessing Failure Mechanisms in Composite Materials**|Yanran Wang et.al.|[2411.10998](http://arxiv.org/abs/2411.10998)|null|
-|**2024-11-16**|**MRI Parameter Mapping via Gaussian Mixture VAE: Breaking the Assumption of Independent Pixels**|Moucheng Xu et.al.|[2411.10772](http://arxiv.org/abs/2411.10772)|**[link](https://github.com/moucheng2017/MRI-GMM-VAE)**|
+|**2024-11-16**|**MRI Parameter Mapping via Gaussian Mixture VAE: Breaking the Assumption of Independent Pixels**|Moucheng Xu et.al.|[2411.10772](http://arxiv.org/abs/2411.10772)|null|
 |**2024-11-15**|**Voxel-Aggergated Feature Synthesis: Efficient Dense Mapping for Simulated 3D Reasoning**|Owen Burns et.al.|[2411.10616](http://arxiv.org/abs/2411.10616)|null|
 |**2024-11-14**|**MICCAI-CDMRI 2023 QuantConn Challenge Findings on Achieving Robust Quantitative Connectivity through Harmonized Preprocessing of Diffusion MRI**|Nancy R. Newlin et.al.|[2411.09618](http://arxiv.org/abs/2411.09618)|**[link](https://github.com/nancynewlin-masi/QuantConn)**|
 |**2024-11-13**|**Somatosensory and motor contributions to emotion representation**|Marianne C. Reddan et.al.|[2411.08973](http://arxiv.org/abs/2411.08973)|null|
@@ -3497,7 +3497,7 @@
 |**2024-06-11**|**EFFOcc: A Minimal Baseline for EFficient Fusion-based 3D Occupancy Network**|Yining Shi et.al.|[2406.07042](http://arxiv.org/abs/2406.07042)|**[link](https://github.com/synsin0/effocc)**|
 |**2024-06-11**|**PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving**|Yining Shi et.al.|[2406.07037](http://arxiv.org/abs/2406.07037)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## 3D Vision-Language
 
@@ -3577,5 +3577,5 @@
 |**2017-05-24**|**VANETs Meet Autonomous Vehicles: A Multimodal 3D Environment Learning Approach**|Yassine Maalej et.al.|[1705.08624](http://arxiv.org/abs/1705.08624)|null|
 |**2017-02-12**|**Structured illumination multimodal 3D-resolved quantitative phase and fluorescence sub-diffraction microscopy**|Shwetadwip Chowdhury et.al.|[1702.03582](http://arxiv.org/abs/1702.03582)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
