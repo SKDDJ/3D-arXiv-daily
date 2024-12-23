@@ -307,9 +307,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**GCA-3D: Towards Generalized and Consistent Domain Adaptation of 3D Generators**|Hengjia Li et.al.|[2412.15491](http://arxiv.org/abs/2412.15491)|null|
+|**2024-12-18**|**DreaMark: Rooting Watermark in Score Distillation Sampling Generated Neural Radiance Fields**|Xingyu Zhu et.al.|[2412.15278](http://arxiv.org/abs/2412.15278)|null|
 |**2024-12-19**|**Generative Multiview Relighting for 3D Reconstruction under Extreme Illumination Variation**|Hadi Alzayer et.al.|[2412.15211](http://arxiv.org/abs/2412.15211)|null|
 |**2024-12-19**|**DI-PCG: Diffusion-based Efficient Inverse Procedural Content Generation for High-quality 3D Asset Creation**|Wang Zhao et.al.|[2412.15200](http://arxiv.org/abs/2412.15200)|null|
-|**2024-12-19**|**GURecon: Learning Detailed 3D Geometric Uncertainties for Neural Surface Reconstruction**|Zesong Yang et.al.|[2412.14939](http://arxiv.org/abs/2412.14939)|null|
+|**2024-12-20**|**GURecon: Learning Detailed 3D Geometric Uncertainties for Neural Surface Reconstruction**|Zesong Yang et.al.|[2412.14939](http://arxiv.org/abs/2412.14939)|null|
 |**2024-12-19**|**Diffusion priors for Bayesian 3D reconstruction from incomplete measurements**|Julian L. Möbius et.al.|[2412.14897](http://arxiv.org/abs/2412.14897)|null|
 |**2024-12-19**|**GSRender: Deduplicated Occupancy Prediction via Weakly Supervised 3D Gaussian Splatting**|Qianpu Sun et.al.|[2412.14579](http://arxiv.org/abs/2412.14579)|null|
 |**2024-12-19**|**Improving Geometry in Sparse-View 3DGS via Reprojection-based DoF Separation**|Yongsung Kim et.al.|[2412.14568](http://arxiv.org/abs/2412.14568)|null|
@@ -747,9 +749,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**NeRF-To-Real Tester: Neural Radiance Fields as Test Image Generators for Vision of Autonomous Systems**|Laura Weihl et.al.|[2412.16141](http://arxiv.org/abs/2412.16141)|null|
+|**2024-12-20**|**NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images**|Yue Guo et.al.|[2412.15890](http://arxiv.org/abs/2412.15890)|null|
+|**2024-12-20**|**EGSRAL: An Enhanced 3D Gaussian Splatting based Renderer with Automated Labeling for Large-Scale Driving Scene**|Yixiong Huo et.al.|[2412.15550](http://arxiv.org/abs/2412.15550)|**[link](https://github.com/jiangxb98/egsral)**|
+|**2024-12-20**|**GCA-3D: Towards Generalized and Consistent Domain Adaptation of 3D Generators**|Hengjia Li et.al.|[2412.15491](http://arxiv.org/abs/2412.15491)|null|
+|**2024-12-19**|**LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction**|Pou-Chun Kung et.al.|[2412.15447](http://arxiv.org/abs/2412.15447)|null|
+|**2024-12-19**|**SolidGS: Consolidating Gaussian Surfel Splatting for Sparse-View Surface Reconstruction**|Zhuowen Shen et.al.|[2412.15400](http://arxiv.org/abs/2412.15400)|null|
+|**2024-12-18**|**DreaMark: Rooting Watermark in Score Distillation Sampling Generated Neural Radiance Fields**|Xingyu Zhu et.al.|[2412.15278](http://arxiv.org/abs/2412.15278)|null|
 |**2024-12-19**|**EnvGS: Modeling View-Dependent Appearance with Environment Gaussian**|Tao Xie et.al.|[2412.15215](http://arxiv.org/abs/2412.15215)|null|
 |**2024-12-19**|**LiDAR-RT: Gaussian-based Ray Tracing for Dynamic LiDAR Re-simulation**|Chenxu Zhou et.al.|[2412.15199](http://arxiv.org/abs/2412.15199)|null|
-|**2024-12-19**|**GURecon: Learning Detailed 3D Geometric Uncertainties for Neural Surface Reconstruction**|Zesong Yang et.al.|[2412.14939](http://arxiv.org/abs/2412.14939)|null|
+|**2024-12-20**|**GURecon: Learning Detailed 3D Geometric Uncertainties for Neural Surface Reconstruction**|Zesong Yang et.al.|[2412.14939](http://arxiv.org/abs/2412.14939)|null|
 |**2024-12-19**|**GSRender: Deduplicated Occupancy Prediction via Weakly Supervised 3D Gaussian Splatting**|Qianpu Sun et.al.|[2412.14579](http://arxiv.org/abs/2412.14579)|null|
 |**2024-12-19**|**Bright-NeRF:Brightening Neural Radiance Field with Color Restoration from Low-light Raw Images**|Min Wang et.al.|[2412.14547](http://arxiv.org/abs/2412.14547)|null|
 |**2024-12-19**|**Drive-1-to-3: Enriching Diffusion Priors for Novel View Synthesis of Real Vehicles**|Chuang Lin et.al.|[2412.14494](http://arxiv.org/abs/2412.14494)|null|
@@ -1185,6 +1194,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Sparse Point Clouds Assisted Learned Image Compression**|Yiheng Jiang et.al.|[2412.15752](http://arxiv.org/abs/2412.15752)|null|
+|**2024-12-20**|**SaliencyI2PLoc: saliency-guided image-point cloud localization using contrastive learning**|Yuhao Li et.al.|[2412.15577](http://arxiv.org/abs/2412.15577)|null|
 |**2024-12-19**|**Arti-PG: A Toolbox for Procedurally Synthesizing Large-Scale and Diverse Articulated Objects with Rich Annotations**|Jianhua Sun et.al.|[2412.14974](http://arxiv.org/abs/2412.14974)|null|
 |**2024-12-19**|**Diffusion priors for Bayesian 3D reconstruction from incomplete measurements**|Julian L. Möbius et.al.|[2412.14897](http://arxiv.org/abs/2412.14897)|null|
 |**2024-12-19**|**ObjVariantEnsemble: Advancing Point Cloud LLM Evaluation in Challenging Scenes with Subtly Distinguished Objects**|Qihang Cao et.al.|[2412.14837](http://arxiv.org/abs/2412.14837)|null|
@@ -1682,7 +1693,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-19**|**GURecon: Learning Detailed 3D Geometric Uncertainties for Neural Surface Reconstruction**|Zesong Yang et.al.|[2412.14939](http://arxiv.org/abs/2412.14939)|null|
+|**2024-12-19**|**SolidGS: Consolidating Gaussian Surfel Splatting for Sparse-View Surface Reconstruction**|Zhuowen Shen et.al.|[2412.15400](http://arxiv.org/abs/2412.15400)|null|
+|**2024-12-20**|**GURecon: Learning Detailed 3D Geometric Uncertainties for Neural Surface Reconstruction**|Zesong Yang et.al.|[2412.14939](http://arxiv.org/abs/2412.14939)|null|
 |**2024-12-18**|**Theory of intervalley-coherent AFM order and topological superconductivity in tWSe $_2$**|Ammon Fischer et.al.|[2412.14296](http://arxiv.org/abs/2412.14296)|null|
 |**2024-12-18**|**New models of clean and hydrogenated amorphous silicon surfaces**|Kishor Nepal et.al.|[2412.14270](http://arxiv.org/abs/2412.14270)|null|
 |**2024-12-18**|**GraphicsDreamer: Image to 3D Generation with Physical Consistency**|Pei Chen et.al.|[2412.14214](http://arxiv.org/abs/2412.14214)|null|
@@ -1732,12 +1744,12 @@
 |**2024-11-27**|**MRI Breast tissue segmentation using nnU-Net for biomechanical modeling**|Melika Pooyan et.al.|[2411.18784](http://arxiv.org/abs/2411.18784)|null|
 |**2024-11-27**|**GLS: Geometry-aware 3D Language Gaussian Splatting**|Jiaxiong Qiu et.al.|[2411.18066](http://arxiv.org/abs/2411.18066)|**[link](https://github.com/jiaxiongq/gls)**|
 |**2024-11-26**|**NumGrad-Pull: Numerical Gradient Guided Tri-plane Representation for Surface Reconstruction from Point Clouds**|Ruikai Cui et.al.|[2411.17392](http://arxiv.org/abs/2411.17392)|**[link](https://github.com/cuiruikai/numgrad-pull)**|
-|**2024-11-26**|**X-MeshGraphNet: Scalable Multi-Scale Graph Neural Networks for Physics Simulation**|Mohammad Amin Nabian et.al.|[2411.17164](http://arxiv.org/abs/2411.17164)|**[link](https://github.com/nvidia/modulus)**|
+|**2024-12-20**|**X-MeshGraphNet: Scalable Multi-Scale Graph Neural Networks for Physics Simulation**|Mohammad Amin Nabian et.al.|[2411.17164](http://arxiv.org/abs/2411.17164)|**[link](https://github.com/nvidia/modulus)**|
 |**2024-11-25**|**G2SDF: Surface Reconstruction from Explicit Gaussians with Implicit SDFs**|Kunyi Li et.al.|[2411.16898](http://arxiv.org/abs/2411.16898)|null|
 |**2024-11-25**|**Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction**|Ziyu Zhang et.al.|[2411.16392](http://arxiv.org/abs/2411.16392)|null|
 |**2024-11-25**|**Fancy123: One Image to High-Quality 3D Mesh Generation via Plug-and-Play Deformation**|Qiao Yu et.al.|[2411.16185](http://arxiv.org/abs/2411.16185)|null|
 |**2024-11-28**|**A priori and a posteriori error estimates of a really pressure-robust virtual element method for the incompressible Brinkman problem**|Yu Xiong et.al.|[2411.16067](http://arxiv.org/abs/2411.16067)|null|
-|**2024-11-28**|**GSurf: 3D Reconstruction via Signed Distance Fields with Direct Gaussian Supervision**|Baixin Xu et.al.|[2411.15723](http://arxiv.org/abs/2411.15723)|**[link](https://github.com/xubaixinxbx/gsurf)**|
+|**2024-12-20**|**GSurf: 3D Reconstruction via Signed Distance Fields with Direct Gaussian Supervision**|Baixin Xu et.al.|[2411.15723](http://arxiv.org/abs/2411.15723)|**[link](https://github.com/xubaixinxbx/gsurf)**|
 |**2024-12-15**|**An adversarial feature learning based semantic communication method for Human 3D Reconstruction**|Shaojiang Liu et.al.|[2411.15595](http://arxiv.org/abs/2411.15595)|null|
 |**2024-11-23**|**SplatSDF: Boosting Neural Implicit SDF via Gaussian Splatting Fusion**|Runfa Blark Li et.al.|[2411.15468](http://arxiv.org/abs/2411.15468)|null|
 |**2024-11-21**|**HotSpot: Screened Poisson Equation for Signed Distance Function Optimization**|Zimo Wang et.al.|[2411.14628](http://arxiv.org/abs/2411.14628)|null|
@@ -2014,6 +2026,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**CoCoGaussian: Leveraging Circle of Confusion for Gaussian Splatting from Defocused Images**|Jungho Lee et.al.|[2412.16028](http://arxiv.org/abs/2412.16028)|null|
+|**2024-12-20**|**IRGS: Inter-Reflective Gaussian Splatting with 2D Gaussian Ray Tracing**|Chun Gu et.al.|[2412.15867](http://arxiv.org/abs/2412.15867)|null|
+|**2024-12-20**|**AvatarPerfect: User-Assisted 3D Gaussian Splatting Avatar Refinement with Automatic Pose Suggestion**|Jotaro Sakamiya et.al.|[2412.15609](http://arxiv.org/abs/2412.15609)|null|
+|**2024-12-20**|**EGSRAL: An Enhanced 3D Gaussian Splatting based Renderer with Automated Labeling for Large-Scale Driving Scene**|Yixiong Huo et.al.|[2412.15550](http://arxiv.org/abs/2412.15550)|**[link](https://github.com/jiangxb98/egsral)**|
+|**2024-12-19**|**LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction**|Pou-Chun Kung et.al.|[2412.15447](http://arxiv.org/abs/2412.15447)|null|
+|**2024-12-19**|**SolidGS: Consolidating Gaussian Surfel Splatting for Sparse-View Surface Reconstruction**|Zhuowen Shen et.al.|[2412.15400](http://arxiv.org/abs/2412.15400)|null|
 |**2024-12-19**|**SqueezeMe: Efficient Gaussian Avatars for VR**|Shunsuke Saito et.al.|[2412.15171](http://arxiv.org/abs/2412.15171)|null|
 |**2024-12-19**|**Dream to Manipulate: Compositional World Models Empowering Robot Imitation Learning with Imagination**|Leonardo Barcellona et.al.|[2412.14957](http://arxiv.org/abs/2412.14957)|null|
 |**2024-12-19**|**GSRender: Deduplicated Occupancy Prediction via Weakly Supervised 3D Gaussian Splatting**|Qianpu Sun et.al.|[2412.14579](http://arxiv.org/abs/2412.14579)|null|
@@ -2485,6 +2503,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**CoCoGaussian: Leveraging Circle of Confusion for Gaussian Splatting from Defocused Images**|Jungho Lee et.al.|[2412.16028](http://arxiv.org/abs/2412.16028)|null|
+|**2024-12-20**|**SCENIC: Scene-aware Semantic Navigation with Instruction-guided Control**|Xiaohan Zhang et.al.|[2412.15664](http://arxiv.org/abs/2412.15664)|null|
 |**2024-12-19**|**ObjVariantEnsemble: Advancing Point Cloud LLM Evaluation in Challenging Scenes with Subtly Distinguished Objects**|Qihang Cao et.al.|[2412.14837](http://arxiv.org/abs/2412.14837)|null|
 |**2024-12-18**|**RelationField: Relate Anything in Radiance Fields**|Sebastian Koch et.al.|[2412.13652](http://arxiv.org/abs/2412.13652)|null|
 |**2024-12-17**|**NFL-BA: Improving Endoscopic SLAM with Near-Field Light Bundle Adjustment**|Andrea Dunn Beltran et.al.|[2412.13176](http://arxiv.org/abs/2412.13176)|null|
@@ -2775,9 +2795,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**EGSRAL: An Enhanced 3D Gaussian Splatting based Renderer with Automated Labeling for Large-Scale Driving Scene**|Yixiong Huo et.al.|[2412.15550](http://arxiv.org/abs/2412.15550)|**[link](https://github.com/jiangxb98/egsral)**|
+|**2024-12-19**|**SolidGS: Consolidating Gaussian Surfel Splatting for Sparse-View Surface Reconstruction**|Zhuowen Shen et.al.|[2412.15400](http://arxiv.org/abs/2412.15400)|null|
 |**2024-12-19**|**EnvGS: Modeling View-Dependent Appearance with Environment Gaussian**|Tao Xie et.al.|[2412.15215](http://arxiv.org/abs/2412.15215)|null|
 |**2024-12-19**|**LiDAR-RT: Gaussian-based Ray Tracing for Dynamic LiDAR Re-simulation**|Chenxu Zhou et.al.|[2412.15199](http://arxiv.org/abs/2412.15199)|null|
-|**2024-12-19**|**GURecon: Learning Detailed 3D Geometric Uncertainties for Neural Surface Reconstruction**|Zesong Yang et.al.|[2412.14939](http://arxiv.org/abs/2412.14939)|null|
+|**2024-12-20**|**GURecon: Learning Detailed 3D Geometric Uncertainties for Neural Surface Reconstruction**|Zesong Yang et.al.|[2412.14939](http://arxiv.org/abs/2412.14939)|null|
 |**2024-12-19**|**Bright-NeRF:Brightening Neural Radiance Field with Color Restoration from Low-light Raw Images**|Min Wang et.al.|[2412.14547](http://arxiv.org/abs/2412.14547)|null|
 |**2024-12-19**|**Drive-1-to-3: Enriching Diffusion Priors for Novel View Synthesis of Real Vehicles**|Chuang Lin et.al.|[2412.14494](http://arxiv.org/abs/2412.14494)|null|
 |**2024-12-19**|**LiftRefine: Progressively Refined View Synthesis from 3D Lifting with Volume-Triplane Representations**|Tung Do et.al.|[2412.14464](http://arxiv.org/abs/2412.14464)|null|
